@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jairoFernandez&count_private=true&theme=buefy&show_icons=true)](https://github.com/jairoFernandez)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoFernandez)](https://github.com/jairoFernandez/)
+
 <!--
 **jairoFernandez/jairoFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
