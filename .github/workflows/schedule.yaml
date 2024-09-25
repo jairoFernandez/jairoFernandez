@@ -41,7 +41,7 @@ jobs:
           git commit -m "[ci skip] Updating README with latest information" || echo "No changes to commit"
           git push || echo "No changes to push"
         env:
-          RSS_FEED: ""
+          RSS_FEED: "https://dev.to/feed/jairofernandez"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DISABLE_RSS: "true"
+          DISABLE_RSS: "false"
           GITHUB_USERNAME: "jairoFernandez"
