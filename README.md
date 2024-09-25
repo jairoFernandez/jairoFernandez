@@ -15,6 +15,18 @@ I'm [Jairo Fernandez](https://www.linkedin.com/in/jairofernandezvega/), I'm a Co
 If you want to know more about me, you can visit my [personal website](https://dev.to/jairofernandez) (some of the most recent articles I've written are listed below!), follow me on [Twitter/X](https://x.com/jairoAFernandez) or add me on [LinkedIn](https://www.linkedin.com/in/jairofernandezvega/).
 
 My personal favourite projects are 📌 pinned below!
+### 📚 Latest Blog Posts
+
+*(Some content might be written in Spanish)*
+
+
+* [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd?ref=github-profile) *(published on August 14, 2024)*
+* [Docker is destroying my machine! 💥](https://dev.to/jairofernandez/docker-is-destroying-my-machine-53p4?ref=github-profile) *(published on July 26, 2024)*
+* [CLI Maker: More Than We See](https://dev.to/jairofernandez/-cli-maker-more-than-we-see-3gk4?ref=github-profile) *(published on July 24, 2024)*
+* [Create a simple CLI, a mess](https://dev.to/jairofernandez/create-a-simple-cli-a-mess-2g7j?ref=github-profile) *(published on July 20, 2024)*
+* [Has tu README realmente útil](https://dev.to/jairofernandez/has-tu-readme-realmente-util-49ea?ref=github-profile) *(published on May 30, 2024)*
+
+... And several additional articles are available [on my blog](https://dev.to/jairofernandez/). Check it out!
 ### ✍️ Recent Public Contributions
 
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
@@ -32,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#20 - chore: update github action docker login to v3](https://github.com/konstructio/tinkerbell-actions/pull/20) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@OnWatchUS](https://github.com/OnWatchUS),
 [@ClientCall](https://github.com/ClientCall),
 [@api-platform](https://github.com/api-platform),
-[@konstructio](https://github.com/konstructio)
-and [@algolia](https://github.com/algolia).
+[@konstructio](https://github.com/konstructio),
+[@kubefirst](https://github.com/kubefirst)
+and [@origami-corp](https://github.com/origami-corp).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -63,4 +75,4 @@ and [@algolia](https://github.com/algolia).
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 67 ⭐️
 * [dunglas/frankenphp](https://github.com/dunglas/frankenphp) from [@dunglas](https://github.com/dunglas) with 6.7K ⭐️
 
-<sup><sub>Last updated: September 25, 2024 at 19:38:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 25, 2024 at 19:41:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
