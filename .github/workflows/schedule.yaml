@@ -45,3 +45,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISABLE_RSS: "false"
           GITHUB_USERNAME: "jairoFernandez"
+          MAX_ARTICLES: "20"
