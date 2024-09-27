@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#20 - chore: update github action docker login to v3](https://github.com/konstructio/tinkerbell-actions/pull/20) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@dagrinchi](https://github.com/dagrinchi),
+[@konstructio](https://github.com/konstructio),
 [@algolia](https://github.com/algolia),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@api-platform](https://github.com/api-platform)
-and [@dagrinchi](https://github.com/dagrinchi).
+[@solana-labs](https://github.com/solana-labs)
+and [@api-platform](https://github.com/api-platform).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 67 ⭐️
 * [dunglas/frankenphp](https://github.com/dunglas/frankenphp) from [@dunglas](https://github.com/dunglas) with 6.7K ⭐️
 
-<sup><sub>Last updated: September 27, 2024 at 00:06:59 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 27, 2024 at 04:07:44 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
