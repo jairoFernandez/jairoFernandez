@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#20 - chore: update github action docker login to v3](https://github.com/konstructio/tinkerbell-actions/pull/20) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst),
-[@CodelyTV](https://github.com/CodelyTV),
-[@OnWatchUS](https://github.com/OnWatchUS)
-and [@Fundefir-dev](https://github.com/Fundefir-dev).
+[@algolia](https://github.com/algolia),
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@api-platform](https://github.com/api-platform)
+and [@dagrinchi](https://github.com/dagrinchi).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -67,12 +67,12 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 5 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 24 ⭐️
-* [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 656 ⭐️
+* [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 657 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 133 ⭐️
 * [alexellis/k3sup](https://github.com/alexellis/k3sup) from [@alexellis](https://github.com/alexellis) with 6.2K ⭐️
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 759 ⭐️
-* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 799 ⭐️
+* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 800 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 67 ⭐️
 * [dunglas/frankenphp](https://github.com/dunglas/frankenphp) from [@dunglas](https://github.com/dunglas) with 6.7K ⭐️
 
-<sup><sub>Last updated: September 26, 2024 at 20:23:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 27, 2024 at 00:06:59 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
