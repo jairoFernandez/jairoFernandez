@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#20 - chore: update github action docker login to v3](https://github.com/konstructio/tinkerbell-actions/pull/20) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@dagrinchi](https://github.com/dagrinchi),
-[@ideascoldigital](https://github.com/ideascoldigital),
+[@algolia](https://github.com/algolia),
 [@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@origami-corp](https://github.com/origami-corp),
+[@OnWatchUS](https://github.com/OnWatchUS)
+and [@Fundefir-dev](https://github.com/Fundefir-dev).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -59,7 +59,7 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 40.7K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 21 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 7.8K ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 7.9K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 75 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 4 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
@@ -71,8 +71,8 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 134 ⭐️
 * [alexellis/k3sup](https://github.com/alexellis/k3sup) from [@alexellis](https://github.com/alexellis) with 6.2K ⭐️
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 760 ⭐️
-* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 800 ⭐️
+* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 801 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 67 ⭐️
 * [dunglas/frankenphp](https://github.com/dunglas/frankenphp) from [@dunglas](https://github.com/dunglas) with 6.7K ⭐️
 
-<sup><sub>Last updated: September 30, 2024 at 04:08:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 30, 2024 at 08:09:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
