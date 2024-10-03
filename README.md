@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#20 - chore: update github action docker login to v3](https://github.com/konstructio/tinkerbell-actions/pull/20) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst),
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@origami-corp](https://github.com/origami-corp),
+[@CodelyTV](https://github.com/CodelyTV),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@ClientCall](https://github.com/ClientCall)
+and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -72,7 +72,7 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 135 ⭐️
 * [alexellis/k3sup](https://github.com/alexellis/k3sup) from [@alexellis](https://github.com/alexellis) with 6.2K ⭐️
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 762 ⭐️
-* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 801 ⭐️
+* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 802 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 67 ⭐️
 
-<sup><sub>Last updated: October 03, 2024 at 12:06:16 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 03, 2024 at 16:05:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
