@@ -44,8 +44,8 @@ My personal favourite projects are 📌 pinned below!
 * [#20 - chore: update github action docker login to v3](https://github.com/konstructio/tinkerbell-actions/pull/20) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ClientCall](https://github.com/ClientCall),
-[@ideascoldigital](https://github.com/ideascoldigital),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@api-platform](https://github.com/api-platform),
 [@konstructio](https://github.com/konstructio),
 [@kubefirst](https://github.com/kubefirst)
 and [@algolia](https://github.com/algolia).
@@ -75,4 +75,4 @@ and [@algolia](https://github.com/algolia).
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 802 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 67 ⭐️
 
-<sup><sub>Last updated: October 05, 2024 at 12:05:18 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 05, 2024 at 16:05:15 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
