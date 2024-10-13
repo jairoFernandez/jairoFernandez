@@ -45,8 +45,8 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kubefirst](https://github.com/kubefirst),
-[@CodelyTV](https://github.com/CodelyTV),
-[@OnWatchUS](https://github.com/OnWatchUS),
+[@solana-labs](https://github.com/solana-labs),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
 [@ClientCall](https://github.com/ClientCall)
 and [@api-platform](https://github.com/api-platform).
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -75,4 +75,4 @@ and [@api-platform](https://github.com/api-platform).
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 805 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 68 ⭐️
 
-<sup><sub>Last updated: October 13, 2024 at 08:07:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 13, 2024 at 12:05:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
