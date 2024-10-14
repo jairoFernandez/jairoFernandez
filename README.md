@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#715 - fix: allow manage error page from docusaurus and not ngnix](https://github.com/konstructio/kubefirst-docs/pull/715) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@algolia](https://github.com/algolia),
+[@ideascoldigital](https://github.com/ideascoldigital),
 [@origami-corp](https://github.com/origami-corp),
-[@konstructio](https://github.com/konstructio)
-and [@solana-labs](https://github.com/solana-labs).
+[@ClientCall](https://github.com/ClientCall),
+[@api-platform](https://github.com/api-platform)
+and [@dagrinchi](https://github.com/dagrinchi).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 805 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 68 ⭐️
 
-<sup><sub>Last updated: October 13, 2024 at 20:25:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 14, 2024 at 00:06:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
