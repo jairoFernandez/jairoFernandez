@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
 [@ClientCall](https://github.com/ClientCall),
-[@konstructio](https://github.com/konstructio)
-and [@ideascoldigital](https://github.com/ideascoldigital).
+[@api-platform](https://github.com/api-platform),
+[@algolia](https://github.com/algolia)
+and [@origami-corp](https://github.com/origami-corp).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 810 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 68 ⭐️
 
-<sup><sub>Last updated: October 25, 2024 at 20:23:16 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 26, 2024 at 00:06:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
