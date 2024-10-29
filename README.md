@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#13 - fix: remove automatic helm upgrade](https://github.com/konstructio/colony-vagrant/pull/13) on `konstructio/colony-vagrant` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#12 - feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#3 - feat: check empty folder](https://github.com/ideascoldigital/cli-maker/pull/3) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,14 +42,13 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#716 - fix: remove auto index in ngnix configuration](https://github.com/konstructio/kubefirst-docs/pull/716) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#715 - fix: allow manage error page from docusaurus and not ngnix](https://github.com/konstructio/kubefirst-docs/pull/715) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@dagrinchi](https://github.com/dagrinchi),
-[@ideascoldigital](https://github.com/ideascoldigital),
 [@algolia](https://github.com/algolia),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@Fundefir-dev](https://github.com/Fundefir-dev).
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@dagrinchi](https://github.com/dagrinchi),
+[@ClientCall](https://github.com/ClientCall)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 811 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 69 ⭐️
 
-<sup><sub>Last updated: October 29, 2024 at 12:06:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 29, 2024 at 16:06:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
