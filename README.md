@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#716 - fix: remove auto index in ngnix configuration](https://github.com/konstructio/kubefirst-docs/pull/716) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ideascoldigital](https://github.com/ideascoldigital),
-[@OnWatchUS](https://github.com/OnWatchUS),
+[@CodelyTV](https://github.com/CodelyTV),
 [@Fundefir-dev](https://github.com/Fundefir-dev),
-[@ClientCall](https://github.com/ClientCall)
-and [@konstructio](https://github.com/konstructio).
+[@api-platform](https://github.com/api-platform),
+[@konstructio](https://github.com/konstructio)
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -71,8 +71,8 @@ and [@konstructio](https://github.com/konstructio).
 * [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 690 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 140 ⭐️
 * [alexellis/k3sup](https://github.com/alexellis/k3sup) from [@alexellis](https://github.com/alexellis) with 6.3K ⭐️
-* [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 775 ⭐️
-* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 811 ⭐️
+* [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 777 ⭐️
+* [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 812 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 69 ⭐️
 
-<sup><sub>Last updated: October 30, 2024 at 04:07:44 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 30, 2024 at 08:09:15 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
