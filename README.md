@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#716 - fix: remove auto index in ngnix configuration](https://github.com/konstructio/kubefirst-docs/pull/716) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@origami-corp](https://github.com/origami-corp),
 [@CodelyTV](https://github.com/CodelyTV),
-[@ClientCall](https://github.com/ClientCall),
-[@api-platform](https://github.com/api-platform),
-[@dagrinchi](https://github.com/dagrinchi)
-and [@ideascoldigital](https://github.com/ideascoldigital).
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@ClientCall](https://github.com/ClientCall)
+and [@dagrinchi](https://github.com/dagrinchi).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -58,7 +58,7 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
-* [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 40.10K ⭐️
+* [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 41K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 23 ⭐️
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 10.9K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 77 ⭐️
@@ -75,4 +75,4 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 812 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 69 ⭐️
 
-<sup><sub>Last updated: October 31, 2024 at 08:09:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 31, 2024 at 12:06:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
