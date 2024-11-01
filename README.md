@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#716 - fix: remove auto index in ngnix configuration](https://github.com/konstructio/kubefirst-docs/pull/716) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@ideascoldigital](https://github.com/ideascoldigital),
-[@origami-corp](https://github.com/origami-corp),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@ClientCall](https://github.com/ClientCall).
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@api-platform](https://github.com/api-platform),
+[@kubefirst](https://github.com/kubefirst),
+[@solana-labs](https://github.com/solana-labs)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@ClientCall](https://github.com/ClientCall).
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 812 ⭐️
 * [DivergerThinking/codeas](https://github.com/DivergerThinking/codeas) from [@DivergerThinking](https://github.com/DivergerThinking) with 69 ⭐️
 
-<sup><sub>Last updated: October 31, 2024 at 20:26:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 01, 2024 at 00:07:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
