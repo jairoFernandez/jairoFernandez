@@ -45,9 +45,9 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
+[@ideascoldigital](https://github.com/ideascoldigital),
 [@algolia](https://github.com/algolia),
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp)
+[@CodelyTV](https://github.com/CodelyTV)
 and [@Fundefir-dev](https://github.com/Fundefir-dev).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -72,7 +72,7 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 694 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 140 ⭐️
 * [alexellis/k3sup](https://github.com/alexellis/k3sup) from [@alexellis](https://github.com/alexellis) with 6.3K ⭐️
-* [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 779 ⭐️
+* [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 780 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 814 ⭐️
 
-<sup><sub>Last updated: November 03, 2024 at 11:06:12 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 03, 2024 at 15:05:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
