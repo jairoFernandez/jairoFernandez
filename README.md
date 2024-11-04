@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#716 - fix: remove auto index in ngnix configuration](https://github.com/konstructio/kubefirst-docs/pull/716) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@dagrinchi](https://github.com/dagrinchi),
-[@konstructio](https://github.com/konstructio),
-[@algolia](https://github.com/algolia),
-[@origami-corp](https://github.com/origami-corp)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@solana-labs](https://github.com/solana-labs),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@dagrinchi](https://github.com/dagrinchi)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -61,7 +61,7 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 41K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 23 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 10.9K ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 10.10K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 77 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
@@ -75,4 +75,4 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 781 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 814 ⭐️
 
-<sup><sub>Last updated: November 04, 2024 at 11:06:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 04, 2024 at 15:06:20 EST. The content here updates twice daily or when manually triggered.</sup></sub>
