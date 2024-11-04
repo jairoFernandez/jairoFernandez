@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
-[@ideascoldigital](https://github.com/ideascoldigital),
 [@algolia](https://github.com/algolia),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@Fundefir-dev](https://github.com/Fundefir-dev).
+[@CodelyTV](https://github.com/CodelyTV),
+[@ClientCall](https://github.com/ClientCall)
+and [@dagrinchi](https://github.com/dagrinchi).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 780 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 814 ⭐️
 
-<sup><sub>Last updated: November 03, 2024 at 15:05:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 03, 2024 at 19:25:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
