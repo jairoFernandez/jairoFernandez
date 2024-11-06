@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#716 - fix: remove auto index in ngnix configuration](https://github.com/konstructio/kubefirst-docs/pull/716) on `konstructio/kubefirst-docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@origami-corp](https://github.com/origami-corp),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@api-platform](https://github.com/api-platform)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@algolia](https://github.com/algolia)
+and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 783 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 814 ⭐️
 
-<sup><sub>Last updated: November 05, 2024 at 19:23:30 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 05, 2024 at 23:06:59 EST. The content here updates twice daily or when manually triggered.</sup></sub>
