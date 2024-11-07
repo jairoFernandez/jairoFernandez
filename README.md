@@ -46,9 +46,9 @@ My personal favourite projects are 📌 pinned below!
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@dagrinchi](https://github.com/dagrinchi),
 [@konstructio](https://github.com/konstructio),
-[@ideascoldigital](https://github.com/ideascoldigital),
-[@kubefirst](https://github.com/kubefirst)
-and [@solana-labs](https://github.com/solana-labs).
+[@kubefirst](https://github.com/kubefirst),
+[@origami-corp](https://github.com/origami-corp)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 784 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 816 ⭐️
 
-<sup><sub>Last updated: November 07, 2024 at 03:07:13 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 07, 2024 at 07:08:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
