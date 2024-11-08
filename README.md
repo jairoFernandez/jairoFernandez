@@ -44,8 +44,8 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@kubefirst](https://github.com/kubefirst),
+[@solana-labs](https://github.com/solana-labs),
 [@ClientCall](https://github.com/ClientCall),
 [@dagrinchi](https://github.com/dagrinchi)
 and [@konstructio](https://github.com/konstructio).
@@ -75,4 +75,4 @@ and [@konstructio](https://github.com/konstructio).
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 785 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 817 ⭐️
 
-<sup><sub>Last updated: November 07, 2024 at 23:06:51 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 08, 2024 at 03:07:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
