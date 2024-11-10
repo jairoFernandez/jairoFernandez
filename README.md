@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@algolia](https://github.com/algolia),
-[@CodelyTV](https://github.com/CodelyTV),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
-and [@api-platform](https://github.com/api-platform).
+[@konstructio](https://github.com/konstructio),
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@kubefirst](https://github.com/kubefirst),
+[@solana-labs](https://github.com/solana-labs)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@api-platform](https://github.com/api-platform).
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 788 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 816 ⭐️
 
-<sup><sub>Last updated: November 10, 2024 at 03:06:31 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 10, 2024 at 07:07:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
