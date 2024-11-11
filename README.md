@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
-[@solana-labs](https://github.com/solana-labs),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@ClientCall](https://github.com/ClientCall)
-and [@api-platform](https://github.com/api-platform).
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@dagrinchi](https://github.com/dagrinchi).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -61,8 +61,8 @@ and [@api-platform](https://github.com/api-platform).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 41.1K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 23 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 11.8K ⭐️
-* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 77 ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 11.9K ⭐️
+* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 78 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 * [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) from [@mrsimonemms](https://github.com/mrsimonemms) with 7 ⭐️
@@ -75,4 +75,4 @@ and [@api-platform](https://github.com/api-platform).
 * [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) from [@enatega](https://github.com/enatega) with 789 ⭐️
 * [guiqui/k8Studio](https://github.com/guiqui/k8Studio) from [@guiqui](https://github.com/guiqui) with 816 ⭐️
 
-<sup><sub>Last updated: November 10, 2024 at 23:06:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 11, 2024 at 03:07:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
