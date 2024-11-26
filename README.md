@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@origami-corp](https://github.com/origami-corp),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@CodelyTV](https://github.com/CodelyTV),
 [@api-platform](https://github.com/api-platform),
-[@algolia](https://github.com/algolia)
-and [@solana-labs](https://github.com/solana-labs).
+[@konstructio](https://github.com/konstructio)
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -56,7 +56,7 @@ and [@solana-labs](https://github.com/solana-labs).
 
 * [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 41.1K ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 25.6K ⭐️
-* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 18.5K ⭐️
+* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 18.6K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 18.1K ⭐️
 * [rio-labs/rio](https://github.com/rio-labs/rio) from [@rio-labs](https://github.com/rio-labs) with 1.9K ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
@@ -75,4 +75,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 706 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 141 ⭐️
 
-<sup><sub>Last updated: November 25, 2024 at 23:07:17 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 26, 2024 at 03:08:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
