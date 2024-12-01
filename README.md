@@ -44,17 +44,17 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp),
-[@ClientCall](https://github.com/ClientCall)
-and [@api-platform](https://github.com/api-platform).
+[@CodelyTV](https://github.com/CodelyTV),
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@dagrinchi](https://github.com/dagrinchi)
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 41.2K ⭐️
+* [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 41.3K ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 25.7K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 18.7K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 18.2K ⭐️
@@ -75,4 +75,4 @@ and [@api-platform](https://github.com/api-platform).
 * [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 709 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 141 ⭐️
 
-<sup><sub>Last updated: December 01, 2024 at 07:08:57 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 01, 2024 at 11:05:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
