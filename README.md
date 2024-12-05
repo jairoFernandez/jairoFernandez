@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@origami-corp](https://github.com/origami-corp),
+[@ClientCall](https://github.com/ClientCall),
 [@konstructio](https://github.com/konstructio),
-[@algolia](https://github.com/algolia),
-[@CodelyTV](https://github.com/CodelyTV),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
-and [@dagrinchi](https://github.com/dagrinchi).
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 713 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 141 ⭐️
 
-<sup><sub>Last updated: December 04, 2024 at 23:07:35 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 05, 2024 at 03:07:53 EST. The content here updates twice daily or when manually triggered.</sup></sub>
