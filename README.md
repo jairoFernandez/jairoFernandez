@@ -46,9 +46,9 @@ My personal favourite projects are 📌 pinned below!
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@CodelyTV](https://github.com/CodelyTV),
 [@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@api-platform](https://github.com/api-platform)
-and [@konstructio](https://github.com/konstructio).
+[@ClientCall](https://github.com/ClientCall),
+[@dagrinchi](https://github.com/dagrinchi)
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@konstructio](https://github.com/konstructio).
 * [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 713 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 141 ⭐️
 
-<sup><sub>Last updated: December 15, 2024 at 07:08:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 11:05:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
