@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
+[@kubefirst](https://github.com/kubefirst),
 [@algolia](https://github.com/algolia),
-[@api-platform](https://github.com/api-platform),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
-and [@ClientCall](https://github.com/ClientCall).
+[@solana-labs](https://github.com/solana-labs)
+and [@origami-corp](https://github.com/origami-corp).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@ClientCall](https://github.com/ClientCall).
 * [tillywork/tillywork](https://github.com/tillywork/tillywork) from [@tillywork](https://github.com/tillywork) with 713 ⭐️
 * [fcori47/basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) from [@fcori47](https://github.com/fcori47) with 141 ⭐️
 
-<sup><sub>Last updated: December 15, 2024 at 19:27:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 23:07:24 EST. The content here updates twice daily or when manually triggered.</sup></sub>
