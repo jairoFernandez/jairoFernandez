@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@origami-corp](https://github.com/origami-corp),
-[@CodelyTV](https://github.com/CodelyTV),
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst)
-and [@solana-labs](https://github.com/solana-labs).
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@kubefirst](https://github.com/kubefirst),
+[@algolia](https://github.com/algolia),
+[@origami-corp](https://github.com/origami-corp)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -56,7 +56,7 @@ and [@solana-labs](https://github.com/solana-labs).
 
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
-* [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 41.7K ⭐️
+* [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 41.8K ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 26.1K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 19.2K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 18.6K ⭐️
@@ -75,4 +75,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
 
-<sup><sub>Last updated: December 20, 2024 at 03:07:31 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 20, 2024 at 07:09:13 EST. The content here updates twice daily or when manually triggered.</sup></sub>
