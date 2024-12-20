@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@dagrinchi](https://github.com/dagrinchi),
+[@kubefirst](https://github.com/kubefirst),
 [@algolia](https://github.com/algolia),
-[@origami-corp](https://github.com/origami-corp),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@ClientCall](https://github.com/ClientCall)
-and [@dagrinchi](https://github.com/dagrinchi).
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@origami-corp](https://github.com/origami-corp).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -73,6 +73,6 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) from [@mrsimonemms](https://github.com/mrsimonemms) with 7 ⭐️
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
-* [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
+* [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 28 ⭐️
 
-<sup><sub>Last updated: December 20, 2024 at 11:06:07 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 20, 2024 at 15:06:01 EST. The content here updates twice daily or when manually triggered.</sup></sub>
