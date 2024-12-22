@@ -46,9 +46,9 @@ My personal favourite projects are 📌 pinned below!
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@algolia](https://github.com/algolia),
 [@origami-corp](https://github.com/origami-corp),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@ClientCall](https://github.com/ClientCall)
-and [@api-platform](https://github.com/api-platform).
+[@konstructio](https://github.com/konstructio),
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@api-platform](https://github.com/api-platform).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: December 21, 2024 at 23:06:39 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 22, 2024 at 03:06:39 EST. The content here updates twice daily or when manually triggered.</sup></sub>
