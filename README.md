@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@ideascoldigital](https://github.com/ideascoldigital),
-[@kubefirst](https://github.com/kubefirst),
 [@solana-labs](https://github.com/solana-labs),
-[@OnWatchUS](https://github.com/OnWatchUS)
-and [@Fundefir-dev](https://github.com/Fundefir-dev).
+[@CodelyTV](https://github.com/CodelyTV)
+and [@OnWatchUS](https://github.com/OnWatchUS).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -59,7 +59,7 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 41.8K ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 26.2K ⭐️
-* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 19.2K ⭐️
+* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 19.3K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 18.7K ⭐️
 * [rio-labs/rio](https://github.com/rio-labs/rio) from [@rio-labs](https://github.com/rio-labs) with 2.1K ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
@@ -68,11 +68,11 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 41.6K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 24 ⭐️
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 17.7K ⭐️
-* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 84 ⭐️
+* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 85 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 * [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) from [@mrsimonemms](https://github.com/mrsimonemms) with 7 ⭐️
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: December 24, 2024 at 07:09:24 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 24, 2024 at 11:05:59 EST. The content here updates twice daily or when manually triggered.</sup></sub>
