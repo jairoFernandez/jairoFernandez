@@ -47,8 +47,8 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@ClientCall](https://github.com/ClientCall),
 [@api-platform](https://github.com/api-platform),
 [@dagrinchi](https://github.com/dagrinchi),
-[@algolia](https://github.com/algolia)
-and [@solana-labs](https://github.com/solana-labs).
+[@konstructio](https://github.com/konstructio)
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: December 23, 2024 at 23:06:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 24, 2024 at 03:07:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
