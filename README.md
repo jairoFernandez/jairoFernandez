@@ -47,8 +47,8 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@solana-labs](https://github.com/solana-labs),
 [@origami-corp](https://github.com/origami-corp),
 [@CodelyTV](https://github.com/CodelyTV),
-[@OnWatchUS](https://github.com/OnWatchUS)
-and [@dagrinchi](https://github.com/dagrinchi).
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: December 27, 2024 at 23:06:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 28, 2024 at 03:06:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
