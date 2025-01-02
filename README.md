@@ -47,8 +47,8 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@api-platform](https://github.com/api-platform),
 [@konstructio](https://github.com/konstructio),
 [@ideascoldigital](https://github.com/ideascoldigital),
-[@origami-corp](https://github.com/origami-corp)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@kubefirst](https://github.com/kubefirst)
+and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -57,7 +57,7 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 106 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
-* [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 41.10K ⭐️
+* [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) from [@hacksider](https://github.com/hacksider) with 42K ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 26.3K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 19.4K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 18.8K ⭐️
@@ -75,4 +75,4 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: January 01, 2025 at 19:23:57 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 01, 2025 at 23:06:58 EST. The content here updates twice daily or when manually triggered.</sup></sub>
