@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@CodelyTV](https://github.com/CodelyTV),
-[@OnWatchUS](https://github.com/OnWatchUS),
+[@ClientCall](https://github.com/ClientCall),
 [@api-platform](https://github.com/api-platform),
-[@ideascoldigital](https://github.com/ideascoldigital)
-and [@origami-corp](https://github.com/origami-corp).
+[@dagrinchi](https://github.com/dagrinchi)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@origami-corp](https://github.com/origami-corp).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: January 04, 2025 at 11:05:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 04, 2025 at 15:05:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
