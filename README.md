@@ -45,9 +45,9 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@dagrinchi](https://github.com/dagrinchi),
-[@kubefirst](https://github.com/kubefirst),
+[@konstructio](https://github.com/konstructio),
 [@origami-corp](https://github.com/origami-corp),
-[@OnWatchUS](https://github.com/OnWatchUS)
+[@CodelyTV](https://github.com/CodelyTV)
 and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -75,4 +75,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 10 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: January 06, 2025 at 11:06:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 06, 2025 at 15:05:24 EST. The content here updates twice daily or when manually triggered.</sup></sub>
