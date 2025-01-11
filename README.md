@@ -46,9 +46,9 @@ My personal favourite projects are 📌 pinned below!
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@CodelyTV](https://github.com/CodelyTV),
 [@OnWatchUS](https://github.com/OnWatchUS),
-[@ClientCall](https://github.com/ClientCall),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
 [@dagrinchi](https://github.com/dagrinchi)
-and [@kubefirst](https://github.com/kubefirst).
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 
-<sup><sub>Last updated: January 10, 2025 at 19:24:07 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 10, 2025 at 23:06:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
