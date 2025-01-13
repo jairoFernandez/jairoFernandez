@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@dagrinchi](https://github.com/dagrinchi),
-[@solana-labs](https://github.com/solana-labs),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
-and [@algolia](https://github.com/algolia).
+[@ClientCall](https://github.com/ClientCall),
+[@konstructio](https://github.com/konstructio),
+[@kubefirst](https://github.com/kubefirst),
+[@algolia](https://github.com/algolia)
+and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -66,7 +66,7 @@ and [@algolia](https://github.com/algolia).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 16 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 41.9K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 25 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 18.5K ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 18.6K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 85 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
@@ -75,4 +75,4 @@ and [@algolia](https://github.com/algolia).
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 31 ⭐️
 
-<sup><sub>Last updated: January 13, 2025 at 07:10:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 13, 2025 at 11:06:43 EST. The content here updates twice daily or when manually triggered.</sup></sub>
