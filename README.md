@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp),
+[@ClientCall](https://github.com/ClientCall),
+[@algolia](https://github.com/algolia),
 [@CodelyTV](https://github.com/CodelyTV),
 [@OnWatchUS](https://github.com/OnWatchUS)
-and [@api-platform](https://github.com/api-platform).
+and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@api-platform](https://github.com/api-platform).
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 31 ⭐️
 
-<sup><sub>Last updated: January 19, 2025 at 11:05:39 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 19, 2025 at 15:05:23 EST. The content here updates twice daily or when manually triggered.</sup></sub>
