@@ -44,17 +44,17 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@algolia](https://github.com/algolia),
+[@solana-labs](https://github.com/solana-labs),
 [@OnWatchUS](https://github.com/OnWatchUS),
-[@ClientCall](https://github.com/ClientCall),
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst)
-and [@algolia](https://github.com/algolia).
+[@dagrinchi](https://github.com/dagrinchi)
+and [@Fundefir-dev](https://github.com/Fundefir-dev).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 3.7K ⭐️
+* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 3.8K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 113 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
@@ -75,4 +75,4 @@ and [@algolia](https://github.com/algolia).
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 12 ⭐️
 * [lafvg12/jsonwebcrypto](https://github.com/lafvg12/jsonwebcrypto) from [@lafvg12](https://github.com/lafvg12) with 3 ⭐️
 
-<sup><sub>Last updated: January 25, 2025 at 23:06:10 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 26, 2025 at 03:06:22 EST. The content here updates twice daily or when manually triggered.</sup></sub>
