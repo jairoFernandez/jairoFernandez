@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@solana-labs](https://github.com/solana-labs),
-[@CodelyTV](https://github.com/CodelyTV),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@konstructio](https://github.com/konstructio)
-and [@kubefirst](https://github.com/kubefirst).
+[@konstructio](https://github.com/konstructio),
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@origami-corp](https://github.com/origami-corp),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@api-platform](https://github.com/api-platform).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -75,4 +75,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) from [@mrsimonemms](https://github.com/mrsimonemms) with 7 ⭐️
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 13 ⭐️
 
-<sup><sub>Last updated: January 31, 2025 at 19:25:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 31, 2025 at 23:06:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
