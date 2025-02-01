@@ -44,17 +44,17 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@ideascoldigital](https://github.com/ideascoldigital),
-[@origami-corp](https://github.com/origami-corp),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
-and [@api-platform](https://github.com/api-platform).
+[@CodelyTV](https://github.com/CodelyTV),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@api-platform](https://github.com/api-platform),
+[@konstructio](https://github.com/konstructio)
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 480 ⭐️
+* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 481 ⭐️
 * [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 4.10K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 114 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
@@ -68,11 +68,11 @@ and [@api-platform](https://github.com/api-platform).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 42K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 25 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 21.1K ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 21.2K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 * [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) from [@mrsimonemms](https://github.com/mrsimonemms) with 7 ⭐️
 * [nayanAubie/msal_auth](https://github.com/nayanAubie/msal_auth) from [@nayanAubie](https://github.com/nayanAubie) with 13 ⭐️
 
-<sup><sub>Last updated: January 31, 2025 at 23:06:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 01, 2025 at 03:06:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
