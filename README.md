@@ -44,18 +44,18 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ClientCall](https://github.com/ClientCall),
-[@dagrinchi](https://github.com/dagrinchi),
 [@ideascoldigital](https://github.com/ideascoldigital),
-[@algolia](https://github.com/algolia)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@kubefirst](https://github.com/kubefirst),
+[@algolia](https://github.com/algolia),
+[@CodelyTV](https://github.com/CodelyTV)
+and [@api-platform](https://github.com/api-platform).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 12.4K ⭐️
-* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 594 ⭐️
+* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 598 ⭐️
 * [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 5.3K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 114 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
@@ -75,4 +75,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 * [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) from [@mrsimonemms](https://github.com/mrsimonemms) with 7 ⭐️
 
-<sup><sub>Last updated: February 04, 2025 at 03:07:33 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 04, 2025 at 07:09:33 EST. The content here updates twice daily or when manually triggered.</sup></sub>
