@@ -44,11 +44,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ideascoldigital](https://github.com/ideascoldigital),
 [@kubefirst](https://github.com/kubefirst),
-[@origami-corp](https://github.com/origami-corp),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@algolia](https://github.com/algolia),
+[@solana-labs](https://github.com/solana-labs),
+[@origami-corp](https://github.com/origami-corp)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -57,12 +57,12 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 8 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 12.5K ⭐️
 * [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 657 ⭐️
-* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 6K ⭐️
+* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 6.1K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 115 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 28.4K ⭐️
-* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 20.2K ⭐️
+* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 20.3K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 19.6K ⭐️
 * [rio-labs/rio](https://github.com/rio-labs/rio) from [@rio-labs](https://github.com/rio-labs) with 2.3K ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
@@ -75,4 +75,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 
-<sup><sub>Last updated: February 08, 2025 at 23:06:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 09, 2025 at 03:06:20 EST. The content here updates twice daily or when manually triggered.</sup></sub>
