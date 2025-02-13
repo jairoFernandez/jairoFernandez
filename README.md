@@ -20,6 +20,7 @@ My personal favourite projects are 📌 pinned below!
 *(Some content might be written in Spanish)*
 
 
+* [FNPM: The Package Manager Drama Ends Here 🚀](https://dev.to/jairofernandez/fnpm-the-package-manager-drama-ends-here-4i0f?ref=github-profile) *(published on February 13, 2025)*
 * [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd?ref=github-profile) *(published on August 14, 2024)*
 * [Docker is destroying my machine! 💥](https://dev.to/jairofernandez/docker-is-destroying-my-machine-53p4?ref=github-profile) *(published on July 26, 2024)*
 * [CLI Maker: More Than We See](https://dev.to/jairofernandez/-cli-maker-more-than-we-see-3gk4?ref=github-profile) *(published on July 24, 2024)*
@@ -44,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@solana-labs](https://github.com/solana-labs),
+[@CodelyTV](https://github.com/CodelyTV),
 [@OnWatchUS](https://github.com/OnWatchUS),
-[@dagrinchi](https://github.com/dagrinchi),
-[@algolia](https://github.com/algolia),
-[@solana-labs](https://github.com/solana-labs)
-and [@origami-corp](https://github.com/origami-corp).
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -62,7 +63,7 @@ and [@origami-corp](https://github.com/origami-corp).
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 28.5K ⭐️
-* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 20.7K ⭐️
+* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 20.8K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 19.7K ⭐️
 * [rio-labs/rio](https://github.com/rio-labs/rio) from [@rio-labs](https://github.com/rio-labs) with 2.4K ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
@@ -75,4 +76,4 @@ and [@origami-corp](https://github.com/origami-corp).
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 
-<sup><sub>Last updated: February 12, 2025 at 23:07:01 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 13, 2025 at 03:07:33 EST. The content here updates twice daily or when manually triggered.</sup></sub>
