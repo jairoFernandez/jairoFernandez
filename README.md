@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ideascoldigital](https://github.com/ideascoldigital),
+[@solana-labs](https://github.com/solana-labs),
 [@origami-corp](https://github.com/origami-corp),
-[@ClientCall](https://github.com/ClientCall),
-[@konstructio](https://github.com/konstructio)
-and [@algolia](https://github.com/algolia).
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -57,8 +57,8 @@ and [@algolia](https://github.com/algolia).
 
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 13.1K ⭐️
-* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 738 ⭐️
-* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 8K ⭐️
+* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 739 ⭐️
+* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 8.1K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 119 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
@@ -76,4 +76,4 @@ and [@algolia](https://github.com/algolia).
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 
-<sup><sub>Last updated: February 24, 2025 at 23:07:08 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 25, 2025 at 03:07:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
