@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@dagrinchi](https://github.com/dagrinchi),
 [@konstructio](https://github.com/konstructio),
-[@ideascoldigital](https://github.com/ideascoldigital)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubefirst](https://github.com/kubefirst),
+[@CodelyTV](https://github.com/CodelyTV),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@dagrinchi](https://github.com/dagrinchi).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -59,7 +59,7 @@ and [@kubefirst](https://github.com/kubefirst).
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 8 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 13.1K ⭐️
-* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 740 ⭐️
+* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 742 ⭐️
 * [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 8.2K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 119 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
@@ -76,4 +76,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 25.3K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 
-<sup><sub>Last updated: February 26, 2025 at 07:09:34 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 26, 2025 at 11:07:13 EST. The content here updates twice daily or when manually triggered.</sup></sub>
