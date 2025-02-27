@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kubefirst](https://github.com/kubefirst),
-[@algolia](https://github.com/algolia),
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@CodelyTV](https://github.com/CodelyTV),
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -60,7 +60,7 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 13.2K ⭐️
 * [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 745 ⭐️
-* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 8.2K ⭐️
+* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 8.3K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 119 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
@@ -73,7 +73,7 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 42.5K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 25 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 25.4K ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 25.5K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 
-<sup><sub>Last updated: February 27, 2025 at 11:06:58 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 27, 2025 at 15:06:35 EST. The content here updates twice daily or when manually triggered.</sup></sub>
