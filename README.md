@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@api-platform](https://github.com/api-platform),
-[@ideascoldigital](https://github.com/ideascoldigital),
-[@kubefirst](https://github.com/kubefirst),
-[@algolia](https://github.com/algolia)
-and [@solana-labs](https://github.com/solana-labs).
+[@dagrinchi](https://github.com/dagrinchi),
+[@konstructio](https://github.com/konstructio),
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 25.6K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 
-<sup><sub>Last updated: February 28, 2025 at 19:27:20 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 28, 2025 at 23:06:43 EST. The content here updates twice daily or when manually triggered.</sup></sub>
