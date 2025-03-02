@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@api-platform](https://github.com/api-platform),
-[@dagrinchi](https://github.com/dagrinchi),
-[@kubefirst](https://github.com/kubefirst),
-[@solana-labs](https://github.com/solana-labs)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@algolia](https://github.com/algolia),
+[@CodelyTV](https://github.com/CodelyTV),
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 25.7K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 
-<sup><sub>Last updated: March 01, 2025 at 23:06:23 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 02, 2025 at 03:06:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
