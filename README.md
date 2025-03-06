@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#22 - chore: upgrade scout to 0.0.10-rc3](https://github.com/konstructio/tinkerbell-actions/pull/22) on `konstructio/tinkerbell-actions` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
+[@OnWatchUS](https://github.com/OnWatchUS),
 [@ClientCall](https://github.com/ClientCall),
-[@kubefirst](https://github.com/kubefirst),
-[@solana-labs](https://github.com/solana-labs),
-[@OnWatchUS](https://github.com/OnWatchUS)
-and [@Fundefir-dev](https://github.com/Fundefir-dev).
+[@api-platform](https://github.com/api-platform)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -58,8 +58,8 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 7 ⭐️
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 8 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
-* [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 13.3K ⭐️
-* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 778 ⭐️
+* [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 13.4K ⭐️
+* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 779 ⭐️
 * [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 8.6K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 119 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
@@ -76,4 +76,4 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 25.10K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 
-<sup><sub>Last updated: March 06, 2025 at 03:07:44 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 06, 2025 at 07:09:30 EST. The content here updates twice daily or when manually triggered.</sup></sub>
