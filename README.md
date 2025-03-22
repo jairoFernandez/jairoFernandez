@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@ClientCall](https://github.com/ClientCall),
-[@konstructio](https://github.com/konstructio),
-[@solana-labs](https://github.com/solana-labs),
-[@OnWatchUS](https://github.com/OnWatchUS)
-and [@Fundefir-dev](https://github.com/Fundefir-dev).
+[@api-platform](https://github.com/api-platform),
+[@dagrinchi](https://github.com/dagrinchi),
+[@algolia](https://github.com/algolia)
+and [@origami-corp](https://github.com/origami-corp).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -74,6 +74,6 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 43K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 25 ⭐️
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 27K ⭐️
-* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
+* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 87 ⭐️
 
-<sup><sub>Last updated: March 22, 2025 at 04:06:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 22, 2025 at 08:08:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
