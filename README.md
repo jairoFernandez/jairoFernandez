@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@CodelyTV](https://github.com/CodelyTV),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
 [@ClientCall](https://github.com/ClientCall),
-[@ideascoldigital](https://github.com/ideascoldigital)
-and [@konstructio](https://github.com/konstructio).
+[@algolia](https://github.com/algolia),
+[@origami-corp](https://github.com/origami-corp)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@konstructio](https://github.com/konstructio).
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 27.3K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 87 ⭐️
 
-<sup><sub>Last updated: March 30, 2025 at 20:27:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 31, 2025 at 00:07:16 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
