@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@CodelyTV](https://github.com/CodelyTV),
+[@kubefirst](https://github.com/kubefirst),
+[@algolia](https://github.com/algolia),
 [@Fundefir-dev](https://github.com/Fundefir-dev),
-[@dagrinchi](https://github.com/dagrinchi),
-[@origami-corp](https://github.com/origami-corp)
-and [@konstructio](https://github.com/konstructio).
+[@api-platform](https://github.com/api-platform)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@konstructio](https://github.com/konstructio).
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 27.3K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 88 ⭐️
 
-<sup><sub>Last updated: April 02, 2025 at 16:06:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 02, 2025 at 20:25:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
