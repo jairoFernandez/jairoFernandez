@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst),
 [@algolia](https://github.com/algolia),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@ClientCall](https://github.com/ClientCall).
+[@origami-corp](https://github.com/origami-corp),
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -74,6 +74,6 @@ and [@ClientCall](https://github.com/ClientCall).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 43.7K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 26 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 27.8K ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 27.9K ⭐️
 
-<sup><sub>Last updated: April 26, 2025 at 20:29:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 27, 2025 at 00:06:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
