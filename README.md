@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@algolia](https://github.com/algolia),
 [@origami-corp](https://github.com/origami-corp),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@dagrinchi](https://github.com/dagrinchi)
+[@OnWatchUS](https://github.com/OnWatchUS)
 and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -76,4 +76,4 @@ and [@ClientCall](https://github.com/ClientCall).
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 26 ⭐️
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 27.9K ⭐️
 
-<sup><sub>Last updated: May 03, 2025 at 08:08:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 03, 2025 at 12:06:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
