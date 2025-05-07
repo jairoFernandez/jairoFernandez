@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ClientCall](https://github.com/ClientCall),
-[@api-platform](https://github.com/api-platform),
-[@dagrinchi](https://github.com/dagrinchi),
-[@algolia](https://github.com/algolia)
-and [@solana-labs](https://github.com/solana-labs).
+[@konstructio](https://github.com/konstructio),
+[@kubefirst](https://github.com/kubefirst),
+[@algolia](https://github.com/algolia),
+[@solana-labs](https://github.com/solana-labs)
+and [@Fundefir-dev](https://github.com/Fundefir-dev).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -60,7 +60,7 @@ and [@solana-labs](https://github.com/solana-labs).
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 8 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 14.6K ⭐️
-* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 885 ⭐️
+* [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 886 ⭐️
 * [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 12.8K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 130 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
@@ -74,6 +74,6 @@ and [@solana-labs](https://github.com/solana-labs).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 43.8K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 26 ⭐️
-* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 27.10K ⭐️
+* [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 28K ⭐️
 
-<sup><sub>Last updated: May 07, 2025 at 04:08:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 07, 2025 at 08:10:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
