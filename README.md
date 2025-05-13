@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@ClientCall](https://github.com/ClientCall),
-[@api-platform](https://github.com/api-platform)
-and [@ideascoldigital](https://github.com/ideascoldigital).
+[@kubefirst](https://github.com/kubefirst),
+[@solana-labs](https://github.com/solana-labs),
+[@origami-corp](https://github.com/origami-corp)
+and [@OnWatchUS](https://github.com/OnWatchUS).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 26 ⭐️
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 28.1K ⭐️
 
-<sup><sub>Last updated: May 13, 2025 at 12:07:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 13, 2025 at 16:06:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
