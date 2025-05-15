@@ -49,7 +49,7 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@kubefirst](https://github.com/kubefirst),
 [@algolia](https://github.com/algolia),
 [@CodelyTV](https://github.com/CodelyTV)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+and [@Fundefir-dev](https://github.com/Fundefir-dev).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 26 ⭐️
 * [exo-explore/exo](https://github.com/exo-explore/exo) from [@exo-explore](https://github.com/exo-explore) with 28.1K ⭐️
 
-<sup><sub>Last updated: May 14, 2025 at 16:06:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 14, 2025 at 20:26:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
