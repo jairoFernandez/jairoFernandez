@@ -46,9 +46,9 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kubefirst](https://github.com/kubefirst),
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
+[@algolia](https://github.com/algolia),
+[@CodelyTV](https://github.com/CodelyTV),
+[@OnWatchUS](https://github.com/OnWatchUS)
 and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -62,7 +62,7 @@ and [@ClientCall](https://github.com/ClientCall).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 14.7K ⭐️
 * [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 892 ⭐️
-* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 13.1K ⭐️
+* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 13.2K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 130 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
@@ -76,4 +76,4 @@ and [@ClientCall](https://github.com/ClientCall).
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 43.9K ⭐️
 * [CodelyTV/eslint-plugin-no-default-parameters](https://github.com/CodelyTV/eslint-plugin-no-default-parameters) from [@CodelyTV](https://github.com/CodelyTV) with 26 ⭐️
 
-<sup><sub>Last updated: May 20, 2025 at 16:06:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 20, 2025 at 20:28:15 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
