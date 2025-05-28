@@ -45,17 +45,17 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ClientCall](https://github.com/ClientCall),
-[@api-platform](https://github.com/api-platform),
-[@dagrinchi](https://github.com/dagrinchi),
-[@ideascoldigital](https://github.com/ideascoldigital)
-and [@konstructio](https://github.com/konstructio).
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@konstructio](https://github.com/konstructio),
+[@algolia](https://github.com/algolia),
+[@solana-labs](https://github.com/solana-labs)
+and [@origami-corp](https://github.com/origami-corp).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 64.8K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 64.9K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 175.7K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 569 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
@@ -76,4 +76,4 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 * [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [@kelseyhightower](https://github.com/kelseyhightower) with 44K ⭐️
 
-<sup><sub>Last updated: May 28, 2025 at 00:08:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 28, 2025 at 04:08:22 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
