@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ClientCall](https://github.com/ClientCall),
-[@kubefirst](https://github.com/kubefirst),
-[@algolia](https://github.com/algolia),
-[@origami-corp](https://github.com/origami-corp)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@origami-corp](https://github.com/origami-corp),
+[@CodelyTV](https://github.com/CodelyTV),
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@api-platform](https://github.com/api-platform).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 6 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 
-<sup><sub>Last updated: May 31, 2025 at 12:06:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 31, 2025 at 16:06:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
