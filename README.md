@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@origami-corp](https://github.com/origami-corp),
 [@CodelyTV](https://github.com/CodelyTV),
-[@ClientCall](https://github.com/ClientCall),
-[@api-platform](https://github.com/api-platform)
-and [@konstructio](https://github.com/konstructio).
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@api-platform](https://github.com/api-platform),
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -69,11 +69,11 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric) from [@danielmiessler](https://github.com/danielmiessler) with 31.4K ⭐️
-* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 24.5K ⭐️
+* [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 24.6K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 20.10K ⭐️
 * [rio-labs/rio](https://github.com/rio-labs/rio) from [@rio-labs](https://github.com/rio-labs) with 2.9K ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 6 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 
-<sup><sub>Last updated: June 04, 2025 at 00:11:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 04, 2025 at 04:08:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
