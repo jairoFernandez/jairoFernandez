@@ -46,8 +46,8 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kubefirst](https://github.com/kubefirst),
-[@origami-corp](https://github.com/origami-corp),
-[@OnWatchUS](https://github.com/OnWatchUS),
+[@algolia](https://github.com/algolia),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
 [@ClientCall](https://github.com/ClientCall)
 and [@api-platform](https://github.com/api-platform).
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -76,4 +76,4 @@ and [@api-platform](https://github.com/api-platform).
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 6 ⭐️
 
-<sup><sub>Last updated: June 14, 2025 at 20:31:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 15, 2025 at 00:12:59 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
