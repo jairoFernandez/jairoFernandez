@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@algolia](https://github.com/algolia),
-[@origami-corp](https://github.com/origami-corp),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@OnWatchUS](https://github.com/OnWatchUS),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@ClientCall](https://github.com/ClientCall),
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -67,7 +67,7 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15K ⭐️
 * [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 903 ⭐️
-* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 13.7K ⭐️
+* [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 13.8K ⭐️
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 134 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
@@ -76,4 +76,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 21.1K ⭐️
 * [rio-labs/rio](https://github.com/rio-labs/rio) from [@rio-labs](https://github.com/rio-labs) with 2.9K ⭐️
 
-<sup><sub>Last updated: June 20, 2025 at 00:11:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 20, 2025 at 04:08:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
