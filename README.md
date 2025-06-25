@@ -47,9 +47,9 @@ My personal favourite projects are 📌 pinned below!
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@OnWatchUS](https://github.com/OnWatchUS),
 [@api-platform](https://github.com/api-platform),
-[@algolia](https://github.com/algolia),
-[@konstructio](https://github.com/konstructio)
-and [@kubefirst](https://github.com/kubefirst).
+[@konstructio](https://github.com/konstructio),
+[@kubefirst](https://github.com/kubefirst)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 24.9K ⭐️
 * [Lissy93/dashy](https://github.com/Lissy93/dashy) from [@Lissy93](https://github.com/Lissy93) with 21.2K ⭐️
 
-<sup><sub>Last updated: June 24, 2025 at 16:06:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 24, 2025 at 20:28:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
