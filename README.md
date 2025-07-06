@@ -45,19 +45,19 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@algolia](https://github.com/algolia),
-[@solana-labs](https://github.com/solana-labs),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@konstructio](https://github.com/konstructio)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubefirst](https://github.com/kubefirst),
+[@origami-corp](https://github.com/origami-corp),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@api-platform](https://github.com/api-platform)
+and [@dagrinchi](https://github.com/dagrinchi).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 6K ⭐️
+* [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 6.1K ⭐️
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.1K ⭐️
-* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 5.7K ⭐️
+* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 5.8K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 15 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 262 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.3K ⭐️
@@ -76,4 +76,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.3K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 24.10K ⭐️
 
-<sup><sub>Last updated: July 06, 2025 at 00:15:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 06, 2025 at 04:07:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
