@@ -45,10 +45,10 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@konstructio](https://github.com/konstructio),
 [@kubefirst](https://github.com/kubefirst),
-[@solana-labs](https://github.com/solana-labs),
-[@api-platform](https://github.com/api-platform),
-[@dagrinchi](https://github.com/dagrinchi)
+[@origami-corp](https://github.com/origami-corp)
 and [@OnWatchUS](https://github.com/OnWatchUS).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -76,4 +76,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.5K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 25K ⭐️
 
-<sup><sub>Last updated: July 09, 2025 at 20:29:04 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 10, 2025 at 00:14:20 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
