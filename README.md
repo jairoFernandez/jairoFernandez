@@ -45,17 +45,17 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ideascoldigital](https://github.com/ideascoldigital),
-[@solana-labs](https://github.com/solana-labs),
-[@CodelyTV](https://github.com/CodelyTV),
-[@ClientCall](https://github.com/ClientCall)
-and [@dagrinchi](https://github.com/dagrinchi).
+[@api-platform](https://github.com/api-platform),
+[@konstructio](https://github.com/konstructio),
+[@algolia](https://github.com/algolia),
+[@solana-labs](https://github.com/solana-labs)
+and [@origami-corp](https://github.com/origami-corp).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 6.8K ⭐️
+* [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 6.9K ⭐️
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.1K ⭐️
 * [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 6.2K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 15 ⭐️
@@ -76,4 +76,4 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.5K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 25.1K ⭐️
 
-<sup><sub>Last updated: July 11, 2025 at 08:10:34 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 11, 2025 at 12:07:18 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
