@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@OnWatchUS](https://github.com/OnWatchUS),
 [@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst),
-[@origami-corp](https://github.com/origami-corp)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@algolia](https://github.com/algolia),
+[@CodelyTV](https://github.com/CodelyTV),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -57,7 +57,7 @@ and [@CodelyTV](https://github.com/CodelyTV).
 
 * [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 7.6K ⭐️
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.1K ⭐️
-* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 6.5K ⭐️
+* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 6.6K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 16 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 267 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.3K ⭐️
@@ -76,4 +76,4 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.7K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 25.2K ⭐️
 
-<sup><sub>Last updated: July 19, 2025 at 08:09:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 19, 2025 at 12:06:43 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
