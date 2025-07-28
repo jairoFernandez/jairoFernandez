@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - chore: test PR](https://github.com/ideascoldigital/cli-maker/pull/1) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@CodelyTV](https://github.com/CodelyTV),
-[@ideascoldigital](https://github.com/ideascoldigital),
-[@konstructio](https://github.com/konstructio),
-[@solana-labs](https://github.com/solana-labs)
-and [@origami-corp](https://github.com/origami-corp).
+[@ClientCall](https://github.com/ClientCall),
+[@solana-labs](https://github.com/solana-labs),
+[@origami-corp](https://github.com/origami-corp),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@algolia](https://github.com/algolia).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@origami-corp](https://github.com/origami-corp).
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.8K ⭐️
 * [labring/FastGPT](https://github.com/labring/FastGPT) from [@labring](https://github.com/labring) with 25.3K ⭐️
 
-<sup><sub>Last updated: July 27, 2025 at 20:32:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 28, 2025 at 00:23:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
