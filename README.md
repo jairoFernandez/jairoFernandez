@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - feat: new command on library](https://github.com/jairoFernandez/awesome-cli/pull/1) on `jairoFernandez/awesome-cli` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@OnWatchUS](https://github.com/OnWatchUS),
+[@origami-corp](https://github.com/origami-corp),
 [@Fundefir-dev](https://github.com/Fundefir-dev),
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst)
-and [@solana-labs](https://github.com/solana-labs).
+[@dagrinchi](https://github.com/dagrinchi),
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -74,6 +74,6 @@ and [@solana-labs](https://github.com/solana-labs).
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 139 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
-* [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.9K ⭐️
+* [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.10K ⭐️
 
-<sup><sub>Last updated: August 06, 2025 at 20:31:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 07, 2025 at 00:23:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
