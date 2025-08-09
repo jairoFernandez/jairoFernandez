@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - feat: new command on library](https://github.com/jairoFernandez/awesome-cli/pull/1) on `jairoFernandez/awesome-cli` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@origami-corp](https://github.com/origami-corp),
+[@CodelyTV](https://github.com/CodelyTV),
 [@ClientCall](https://github.com/ClientCall),
-[@api-platform](https://github.com/api-platform),
-[@kubefirst](https://github.com/kubefirst)
-and [@algolia](https://github.com/algolia).
+[@api-platform](https://github.com/api-platform)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@algolia](https://github.com/algolia).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.10K ⭐️
 
-<sup><sub>Last updated: August 08, 2025 at 20:28:15 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 09, 2025 at 00:12:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
