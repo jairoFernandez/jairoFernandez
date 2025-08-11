@@ -33,6 +33,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#581 - chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) on `konstructio/kubefirst-api` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#873 - feat: upgrade k3s version to 1.30.5 and fix helm provider syntax](https://github.com/konstructio/gitops-template/pull/873) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#870 - chore: upgrade kubernetes version to 1.30.5-k3s1](https://github.com/konstructio/gitops-template/pull/870) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - Feat/bun support](https://github.com/ideascoldigital/cli-maker/pull/4) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -42,14 +43,13 @@ My personal favourite projects are 📌 pinned below!
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#3 - feat: check empty folder](https://github.com/ideascoldigital/cli-maker/pull/3) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#1 - feat: new command on library](https://github.com/jairoFernandez/awesome-cli/pull/1) on `jairoFernandez/awesome-cli` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@api-platform](https://github.com/api-platform),
 [@dagrinchi](https://github.com/dagrinchi),
 [@ideascoldigital](https://github.com/ideascoldigital),
-[@kubefirst](https://github.com/kubefirst),
-[@origami-corp](https://github.com/origami-corp)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@kubefirst](https://github.com/kubefirst)
+and [@solana-labs](https://github.com/solana-labs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -60,9 +60,9 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.1K ⭐️
 * [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 7.5K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 16 ⭐️
-* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 311 ⭐️
+* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 312 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.4K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 98.4K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 98.5K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 177.7K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 574 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 11 ⭐️
@@ -74,6 +74,6 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) from [@cfahlgren1](https://github.com/cfahlgren1) with 139 ⭐️
 * [konstructio/cli-utils](https://github.com/konstructio/cli-utils) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
-* [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 32.10K ⭐️
+* [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 33K ⭐️
 
-<sup><sub>Last updated: August 11, 2025 at 12:07:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 11, 2025 at 16:07:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
