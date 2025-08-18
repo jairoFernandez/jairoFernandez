@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@ClientCall](https://github.com/ClientCall),
+[@api-platform](https://github.com/api-platform),
 [@dagrinchi](https://github.com/dagrinchi),
-[@kubefirst](https://github.com/kubefirst),
-[@CodelyTV](https://github.com/CodelyTV),
-[@OnWatchUS](https://github.com/OnWatchUS)
-and [@solana-labs](https://github.com/solana-labs).
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -62,7 +62,7 @@ and [@solana-labs](https://github.com/solana-labs).
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 16 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 326 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.4K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 102K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 102.1K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 177.9K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 574 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 11 ⭐️
@@ -76,4 +76,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) from [@danielmiessler](https://github.com/danielmiessler) with 33.1K ⭐️
 
-<sup><sub>Last updated: August 18, 2025 at 04:11:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 18, 2025 at 08:11:22 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
