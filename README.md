@@ -48,8 +48,8 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@OnWatchUS](https://github.com/OnWatchUS),
 [@ClientCall](https://github.com/ClientCall),
 [@dagrinchi](https://github.com/dagrinchi),
-[@konstructio](https://github.com/konstructio)
-and [@ideascoldigital](https://github.com/ideascoldigital).
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -64,9 +64,9 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.1K ⭐️
 * [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 9.4K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 18 ⭐️
-* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 542 ⭐️
+* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 544 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.5K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 118.3K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 118.4K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 178.5K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 574 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 11 ⭐️
@@ -76,4 +76,4 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 990 ⭐️
 * [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 14.9K ⭐️
 
-<sup><sub>Last updated: September 16, 2025 at 00:07:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 16, 2025 at 04:08:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
