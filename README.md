@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@ideascoldigital](https://github.com/ideascoldigital),
-[@kubefirst](https://github.com/kubefirst),
 [@origami-corp](https://github.com/origami-corp),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@Fundefir-dev](https://github.com/Fundefir-dev).
+[@CodelyTV](https://github.com/CodelyTV),
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -62,7 +62,7 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
 * [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 8.6K ⭐️
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.2K ⭐️
-* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 9.4K ⭐️
+* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 9.5K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 18 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 561 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.5K ⭐️
@@ -76,4 +76,4 @@ and [@Fundefir-dev](https://github.com/Fundefir-dev).
 * [nevalang/neva](https://github.com/nevalang/neva) from [@nevalang](https://github.com/nevalang) with 992 ⭐️
 * [browser-use/web-ui](https://github.com/browser-use/web-ui) from [@browser-use](https://github.com/browser-use) with 14.9K ⭐️
 
-<sup><sub>Last updated: September 21, 2025 at 04:07:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 21, 2025 at 08:09:16 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
