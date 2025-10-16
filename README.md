@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@api-platform](https://github.com/api-platform),
 [@ideascoldigital](https://github.com/ideascoldigital),
-[@algolia](https://github.com/algolia),
 [@origami-corp](https://github.com/origami-corp),
-[@ClientCall](https://github.com/ClientCall)
-and [@api-platform](https://github.com/api-platform).
+[@CodelyTV](https://github.com/CodelyTV)
+and [@OnWatchUS](https://github.com/OnWatchUS).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -59,7 +59,7 @@ and [@api-platform](https://github.com/api-platform).
 * [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 3 ⭐️
 * [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.3K ⭐️
 * [actualbudget/actual](https://github.com/actualbudget/actual) from [@actualbudget](https://github.com/actualbudget) with 22.7K ⭐️
-* [slidevjs/slidev](https://github.com/slidevjs/slidev) from [@slidevjs](https://github.com/slidevjs) with 40.5K ⭐️
+* [slidevjs/slidev](https://github.com/slidevjs/slidev) from [@slidevjs](https://github.com/slidevjs) with 40.6K ⭐️
 * [marcusbuffett/chess-tactics-cli](https://github.com/marcusbuffett/chess-tactics-cli) from [@marcusbuffett](https://github.com/marcusbuffett) with 44 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
 * [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 8.7K ⭐️
@@ -76,4 +76,4 @@ and [@api-platform](https://github.com/api-platform).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.8K ⭐️
 
-<sup><sub>Last updated: October 16, 2025 at 08:11:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 16, 2025 at 12:07:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
