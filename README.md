@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
-[@ideascoldigital](https://github.com/ideascoldigital),
 [@kubefirst](https://github.com/kubefirst),
-[@algolia](https://github.com/algolia)
-and [@CodelyTV](https://github.com/CodelyTV).
+[@ClientCall](https://github.com/ClientCall),
+[@api-platform](https://github.com/api-platform)
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@CodelyTV](https://github.com/CodelyTV).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.8K ⭐️
 
-<sup><sub>Last updated: October 17, 2025 at 04:08:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 17, 2025 at 08:11:06 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
