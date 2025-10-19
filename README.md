@@ -47,9 +47,9 @@ My personal favourite projects are 📌 pinned below!
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@algolia](https://github.com/algolia),
 [@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@api-platform](https://github.com/api-platform),
+[@dagrinchi](https://github.com/dagrinchi)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.8K ⭐️
 
-<sup><sub>Last updated: October 18, 2025 at 16:06:09 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 18, 2025 at 20:30:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
