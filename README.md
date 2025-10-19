@@ -45,17 +45,17 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@solana-labs](https://github.com/solana-labs),
 [@origami-corp](https://github.com/origami-corp),
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst)
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@ideascoldigital](https://github.com/ideascoldigital),
+[@solana-labs](https://github.com/solana-labs)
 and [@algolia](https://github.com/algolia).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 49.9K ⭐️
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 49.10K ⭐️
 * [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 3 ⭐️
 * [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.3K ⭐️
 * [actualbudget/actual](https://github.com/actualbudget/actual) from [@actualbudget](https://github.com/actualbudget) with 22.7K ⭐️
@@ -68,7 +68,7 @@ and [@algolia](https://github.com/algolia).
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 18 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 572 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.5K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 133.1K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 133.2K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 179.1K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 576 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
@@ -76,4 +76,4 @@ and [@algolia](https://github.com/algolia).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.8K ⭐️
 
-<sup><sub>Last updated: October 19, 2025 at 12:06:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 19, 2025 at 16:06:18 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
