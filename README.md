@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@ideascoldigital](https://github.com/ideascoldigital),
 [@kubefirst](https://github.com/kubefirst),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@algolia](https://github.com/algolia),
+[@dagrinchi](https://github.com/dagrinchi)
+and [@Fundefir-dev](https://github.com/Fundefir-dev).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -66,7 +66,7 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.2K ⭐️
 * [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 9.7K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 18 ⭐️
-* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 574 ⭐️
+* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 575 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.5K ⭐️
 * [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 133.3K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 179.1K ⭐️
@@ -76,4 +76,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.8K ⭐️
 
-<sup><sub>Last updated: October 20, 2025 at 16:07:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 20, 2025 at 20:27:23 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
