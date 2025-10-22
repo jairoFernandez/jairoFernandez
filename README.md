@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@dagrinchi](https://github.com/dagrinchi),
-[@CodelyTV](https://github.com/CodelyTV),
+[@konstructio](https://github.com/konstructio),
+[@ideascoldigital](https://github.com/ideascoldigital),
 [@OnWatchUS](https://github.com/OnWatchUS),
-[@konstructio](https://github.com/konstructio)
-and [@ideascoldigital](https://github.com/ideascoldigital).
+[@Fundefir-dev](https://github.com/Fundefir-dev)
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -57,7 +57,7 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 50K ⭐️
 * [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 3 ⭐️
-* [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.3K ⭐️
+* [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.4K ⭐️
 * [actualbudget/actual](https://github.com/actualbudget/actual) from [@actualbudget](https://github.com/actualbudget) with 22.8K ⭐️
 * [slidevjs/slidev](https://github.com/slidevjs/slidev) from [@slidevjs](https://github.com/slidevjs) with 40.6K ⭐️
 * [marcusbuffett/chess-tactics-cli](https://github.com/marcusbuffett/chess-tactics-cli) from [@marcusbuffett](https://github.com/marcusbuffett) with 44 ⭐️
@@ -68,7 +68,7 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 18 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 575 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.5K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 133.4K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 133.5K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 179.2K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 576 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
@@ -76,4 +76,4 @@ and [@ideascoldigital](https://github.com/ideascoldigital).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.8K ⭐️
 
-<sup><sub>Last updated: October 21, 2025 at 20:28:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 22, 2025 at 00:07:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
