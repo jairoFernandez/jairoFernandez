@@ -45,11 +45,11 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@ClientCall](https://github.com/ClientCall),
+[@algolia](https://github.com/algolia),
+[@CodelyTV](https://github.com/CodelyTV),
 [@dagrinchi](https://github.com/dagrinchi),
-[@kubefirst](https://github.com/kubefirst)
-and [@algolia](https://github.com/algolia).
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -76,4 +76,4 @@ and [@algolia](https://github.com/algolia).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.9K ⭐️
 
-<sup><sub>Last updated: November 12, 2025 at 07:11:30 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 12, 2025 at 11:08:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
