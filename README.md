@@ -20,6 +20,7 @@ My personal favourite projects are 📌 pinned below!
 *(Some content might be written in Spanish)*
 
 
+* [🚀 FNPM Just Became Invisible (In the Good Way): Transparent Alias, Better Tests & a Smoother Experience](https://dev.to/jairofernandez/fnpm-just-became-invisible-in-the-good-way-transparent-alias-better-tests-a-smoother-2af?ref=github-profile) *(published on November 14, 2025)*
 * [FNPM: The Package Manager Drama Ends Here 🚀](https://dev.to/jairofernandez/fnpm-the-package-manager-drama-ends-here-4i0f?ref=github-profile) *(published on February 13, 2025)*
 * [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd?ref=github-profile) *(published on August 14, 2024)*
 * [Docker is destroying my machine! 💥](https://dev.to/jairofernandez/docker-is-destroying-my-machine-53p4?ref=github-profile) *(published on July 26, 2024)*
@@ -45,11 +46,11 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp),
+[@OnWatchUS](https://github.com/OnWatchUS),
 [@Fundefir-dev](https://github.com/Fundefir-dev),
-[@ClientCall](https://github.com/ClientCall)
-and [@api-platform](https://github.com/api-platform).
+[@ClientCall](https://github.com/ClientCall),
+[@konstructio](https://github.com/konstructio)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -68,7 +69,7 @@ and [@api-platform](https://github.com/api-platform).
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 19 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 594 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.6K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 138.1K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 138.2K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 179.7K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 578 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
@@ -76,4 +77,4 @@ and [@api-platform](https://github.com/api-platform).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.9K ⭐️
 
-<sup><sub>Last updated: November 13, 2025 at 23:08:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 14, 2025 at 03:09:11 EST. The content here updates twice daily or when manually triggered.</sup></sub>
