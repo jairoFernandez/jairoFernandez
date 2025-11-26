@@ -46,11 +46,11 @@ My personal favourite projects are 📌 pinned below!
 * [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@dagrinchi](https://github.com/dagrinchi),
-[@kubefirst](https://github.com/kubefirst),
 [@solana-labs](https://github.com/solana-labs),
-[@OnWatchUS](https://github.com/OnWatchUS)
-and [@ClientCall](https://github.com/ClientCall).
+[@origami-corp](https://github.com/origami-corp),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@ClientCall](https://github.com/ClientCall)
+and [@api-platform](https://github.com/api-platform).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -69,7 +69,7 @@ and [@ClientCall](https://github.com/ClientCall).
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 19 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 600 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.6K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 139.3K ⭐️
+* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 139.4K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 179.9K ⭐️
 * [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 579 ⭐️
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
@@ -77,4 +77,4 @@ and [@ClientCall](https://github.com/ClientCall).
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.10K ⭐️
 
-<sup><sub>Last updated: November 25, 2025 at 15:07:20 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 25, 2025 at 19:28:44 EST. The content here updates twice daily or when manually triggered.</sup></sub>
