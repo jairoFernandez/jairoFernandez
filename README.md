@@ -34,6 +34,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#16 - Feat/security](https://github.com/ideascoldigital/fnpm/pull/16) on `ideascoldigital/fnpm` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#581 - chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#873 - feat: upgrade k3s version to 1.30.5 and fix helm provider syntax](https://github.com/konstructio/gitops-template/pull/873) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#870 - chore: upgrade kubernetes version to 1.30.5-k3s1](https://github.com/konstructio/gitops-template/pull/870) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -43,19 +44,19 @@ My personal favourite projects are 📌 pinned below!
 * [#12 - feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#3 - feat: check empty folder](https://github.com/ideascoldigital/cli-maker/pull/3) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#220 - feat: upgrade colony chart](https://github.com/konstructio/charts/pull/220) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@CodelyTV](https://github.com/CodelyTV),
 [@OnWatchUS](https://github.com/OnWatchUS),
 [@ClientCall](https://github.com/ClientCall),
-[@api-platform](https://github.com/api-platform)
-and [@dagrinchi](https://github.com/dagrinchi).
+[@dagrinchi](https://github.com/dagrinchi),
+[@konstructio](https://github.com/konstructio)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [patrickdappollonio/github-authorized-secrets](https://github.com/patrickdappollonio/github-authorized-secrets) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 51.4K ⭐️
 * [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 4 ⭐️
 * [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.5K ⭐️
@@ -75,6 +76,5 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
-* [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) from [@stackblitz](https://github.com/stackblitz) with 15.10K ⭐️
 
-<sup><sub>Last updated: November 29, 2025 at 23:16:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 30, 2025 at 03:07:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
