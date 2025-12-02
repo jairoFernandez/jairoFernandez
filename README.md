@@ -46,21 +46,21 @@ My personal favourite projects are 📌 pinned below!
 * [#3 - feat: check empty folder](https://github.com/ideascoldigital/cli-maker/pull/3) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@CodelyTV](https://github.com/CodelyTV),
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
-and [@dagrinchi](https://github.com/dagrinchi).
+[@algolia](https://github.com/algolia),
+[@solana-labs](https://github.com/solana-labs),
+[@origami-corp](https://github.com/origami-corp),
+[@CodelyTV](https://github.com/CodelyTV)
+and [@OnWatchUS](https://github.com/OnWatchUS).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [patrickdappollonio/github-authorized-secrets](https://github.com/patrickdappollonio/github-authorized-secrets) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
-* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 51.4K ⭐️
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 51.5K ⭐️
 * [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 4 ⭐️
 * [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.5K ⭐️
-* [actualbudget/actual](https://github.com/actualbudget/actual) from [@actualbudget](https://github.com/actualbudget) with 23.4K ⭐️
+* [actualbudget/actual](https://github.com/actualbudget/actual) from [@actualbudget](https://github.com/actualbudget) with 23.5K ⭐️
 * [slidevjs/slidev](https://github.com/slidevjs/slidev) from [@slidevjs](https://github.com/slidevjs) with 41.10K ⭐️
 * [marcusbuffett/chess-tactics-cli](https://github.com/marcusbuffett/chess-tactics-cli) from [@marcusbuffett](https://github.com/marcusbuffett) with 45 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 46 ⭐️
@@ -68,7 +68,7 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.2K ⭐️
 * [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 10.1K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 19 ⭐️
-* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 600 ⭐️
+* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 601 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.6K ⭐️
 * [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 139.10K ⭐️
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 180K ⭐️
@@ -77,4 +77,4 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 
-<sup><sub>Last updated: December 01, 2025 at 15:07:03 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 01, 2025 at 19:29:13 EST. The content here updates twice daily or when manually triggered.</sup></sub>
