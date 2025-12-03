@@ -46,11 +46,11 @@ My personal favourite projects are 📌 pinned below!
 * [#3 - feat: check empty folder](https://github.com/ideascoldigital/cli-maker/pull/3) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@api-platform](https://github.com/api-platform),
-[@dagrinchi](https://github.com/dagrinchi),
-[@algolia](https://github.com/algolia),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@CodelyTV](https://github.com/CodelyTV),
+[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@ClientCall](https://github.com/ClientCall),
+[@algolia](https://github.com/algolia)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -77,4 +77,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 
-<sup><sub>Last updated: December 03, 2025 at 07:11:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 03, 2025 at 11:09:04 EST. The content here updates twice daily or when manually triggered.</sup></sub>
