@@ -34,6 +34,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2652 - feat: upgrade validator https://github.com/advisories/GHSA-vghf-hv5q-…](https://github.com/typestack/class-validator/pull/2652) on `typestack/class-validator` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#16 - Feat/security](https://github.com/ideascoldigital/fnpm/pull/16) on `ideascoldigital/fnpm` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#581 - chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#873 - feat: upgrade k3s version to 1.30.5 and fix helm provider syntax](https://github.com/konstructio/gitops-template/pull/873) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -43,14 +44,13 @@ My personal favourite projects are 📌 pinned below!
 * [#13 - fix: remove automatic helm upgrade](https://github.com/konstructio/colony-vagrant/pull/13) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
-* [#3 - feat: check empty folder](https://github.com/ideascoldigital/cli-maker/pull/3) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@solana-labs](https://github.com/solana-labs),
-[@CodelyTV](https://github.com/CodelyTV),
 [@Fundefir-dev](https://github.com/Fundefir-dev),
+[@ClientCall](https://github.com/ClientCall),
 [@api-platform](https://github.com/api-platform)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+and [@ideascoldigital](https://github.com/ideascoldigital).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -77,4 +77,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 
-<sup><sub>Last updated: December 05, 2025 at 15:07:23 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 05, 2025 at 19:27:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
