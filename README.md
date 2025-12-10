@@ -46,10 +46,10 @@ My personal favourite projects are 📌 pinned below!
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@origami-corp](https://github.com/origami-corp),
-[@ClientCall](https://github.com/ClientCall),
+[@CodelyTV](https://github.com/CodelyTV),
 [@dagrinchi](https://github.com/dagrinchi),
-[@ideascoldigital](https://github.com/ideascoldigital)
+[@kubefirst](https://github.com/kubefirst),
+[@konstructio](https://github.com/konstructio)
 and [@algolia](https://github.com/algolia).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -77,4 +77,4 @@ and [@algolia](https://github.com/algolia).
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 
-<sup><sub>Last updated: December 09, 2025 at 15:06:33 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 09, 2025 at 19:30:19 EST. The content here updates twice daily or when manually triggered.</sup></sub>
