@@ -46,11 +46,11 @@ My personal favourite projects are 📌 pinned below!
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@OnWatchUS](https://github.com/OnWatchUS),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
+[@solana-labs](https://github.com/solana-labs),
+[@CodelyTV](https://github.com/CodelyTV),
 [@ClientCall](https://github.com/ClientCall),
-[@konstructio](https://github.com/konstructio)
-and [@solana-labs](https://github.com/solana-labs).
+[@ideascoldigital](https://github.com/ideascoldigital)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -66,7 +66,7 @@ and [@solana-labs](https://github.com/solana-labs).
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 46 ⭐️
 * [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 9.1K ⭐️
 * [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.2K ⭐️
-* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 10.1K ⭐️
+* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 10.2K ⭐️
 * [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 19 ⭐️
 * [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 608 ⭐️
 * [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.6K ⭐️
@@ -77,4 +77,4 @@ and [@solana-labs](https://github.com/solana-labs).
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 
-<sup><sub>Last updated: December 10, 2025 at 23:17:02 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 11, 2025 at 03:09:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
