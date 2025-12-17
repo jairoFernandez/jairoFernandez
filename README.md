@@ -46,11 +46,11 @@ My personal favourite projects are 📌 pinned below!
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ideascoldigital](https://github.com/ideascoldigital),
+[@kubefirst](https://github.com/kubefirst),
 [@algolia](https://github.com/algolia),
-[@origami-corp](https://github.com/origami-corp),
-[@Fundefir-dev](https://github.com/Fundefir-dev)
-and [@ClientCall](https://github.com/ClientCall).
+[@solana-labs](https://github.com/solana-labs),
+[@CodelyTV](https://github.com/CodelyTV)
+and [@OnWatchUS](https://github.com/OnWatchUS).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -62,7 +62,7 @@ and [@ClientCall](https://github.com/ClientCall).
 * [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
 * [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.6K ⭐️
 * [actualbudget/actual](https://github.com/actualbudget/actual) from [@actualbudget](https://github.com/actualbudget) with 23.7K ⭐️
-* [slidevjs/slidev](https://github.com/slidevjs/slidev) from [@slidevjs](https://github.com/slidevjs) with 43.2K ⭐️
+* [slidevjs/slidev](https://github.com/slidevjs/slidev) from [@slidevjs](https://github.com/slidevjs) with 43.3K ⭐️
 * [marcusbuffett/chess-tactics-cli](https://github.com/marcusbuffett/chess-tactics-cli) from [@marcusbuffett](https://github.com/marcusbuffett) with 45 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 46 ⭐️
 * [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 9.1K ⭐️
@@ -77,4 +77,4 @@ and [@ClientCall](https://github.com/ClientCall).
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 
-<sup><sub>Last updated: December 16, 2025 at 19:29:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 16, 2025 at 23:14:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
