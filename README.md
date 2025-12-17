@@ -47,10 +47,10 @@ My personal favourite projects are 📌 pinned below!
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kubefirst](https://github.com/kubefirst),
-[@origami-corp](https://github.com/origami-corp),
+[@solana-labs](https://github.com/solana-labs),
 [@CodelyTV](https://github.com/CodelyTV),
 [@OnWatchUS](https://github.com/OnWatchUS)
-and [@dagrinchi](https://github.com/dagrinchi).
+and [@ClientCall](https://github.com/ClientCall).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -77,4 +77,4 @@ and [@dagrinchi](https://github.com/dagrinchi).
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 
-<sup><sub>Last updated: December 17, 2025 at 07:11:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 17, 2025 at 11:08:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
