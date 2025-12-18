@@ -46,17 +46,17 @@ My personal favourite projects are 📌 pinned below!
 * [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@dagrinchi](https://github.com/dagrinchi),
 [@ideascoldigital](https://github.com/ideascoldigital),
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp),
-[@CodelyTV](https://github.com/CodelyTV)
-and [@OnWatchUS](https://github.com/OnWatchUS).
+[@konstructio](https://github.com/konstructio),
+[@solana-labs](https://github.com/solana-labs)
+and [@CodelyTV](https://github.com/CodelyTV).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [apple/container](https://github.com/apple/container) from [@apple](https://github.com/apple) with 22.7K ⭐️
+* [apple/container](https://github.com/apple/container) from [@apple](https://github.com/apple) with 22.8K ⭐️
 * [patrickdappollonio/github-authorized-secrets](https://github.com/patrickdappollonio/github-authorized-secrets) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 52.1K ⭐️
 * [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
@@ -77,4 +77,4 @@ and [@OnWatchUS](https://github.com/OnWatchUS).
 * [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
 * [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
 
-<sup><sub>Last updated: December 17, 2025 at 15:07:39 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 17, 2025 at 19:26:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
