@@ -2,19 +2,31 @@
 
 ## Hello! 👋 Welcome to my Github Profile!
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/icons-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/icons-light.png">
-    <img src="images/icons-dark.png" alt="technologies I use">
-  </picture>
-</p>
-
 I'm [Jairo Fernandez](https://www.linkedin.com/in/jairofernandezvega/), I'm a Colombian 🇨🇴 and a Fullstack Developer working at [Konstruct](https://konstruct.io). I work mostly with Nodejs and Kubernetes in my day-to-day, and as such, you'll see a few tools below I've built over time to solve *personal itches*. If any of the applications you see are valuable to you or have any feedback, please do not hesitate to create an issue in their respective repository, or message me on Twitter: [@jairoAFernandez](https://x.com/jairoAFernandez). I'm always looking forward to feedback!
 
 If you want to know more about me, you can visit my [personal website](https://dev.to/jairofernandez) (some of the most recent articles I've written are listed below!), follow me on [Twitter/X](https://x.com/jairoAFernandez) or add me on [LinkedIn](https://www.linkedin.com/in/jairofernandezvega/).
 
 My personal favourite projects are 📌 pinned below!
+
+### 🚀 Tools I Use Daily
+
+*These are the projects I've built that I actually use every single day - they solve real problems and make my workflow smoother.*
+
+#### [FNPM](https://fnpm-docs.vercel.app/) - End the Package Manager Wars
+**The peace treaty for npm vs yarn vs pnpm drama.** Let your team use their favorite package manager while keeping projects consistent. Features transparent aliases, unified lock files, and zero learning curve.
+
+- 📦 **What it does**: Allows teams to use different package managers (npm, yarn, pnpm, bun) while maintaining consistency
+- 🎯 **Why I built it**: Tired of package manager conflicts and lock file drama in team projects
+- ⚡ **Daily use**: Every project setup and dependency management
+- 🔗 [Documentation](https://fnpm-docs.vercel.app/) | [GitHub](https://github.com/ideascoldigital/fnpm)
+
+#### [CLI Maker](https://www.npmjs.com/package/@ideascol/cli-maker) - Build CLIs Without the Mess
+**Rapid CLI development tool that actually works.** Skip the boilerplate and focus on your CLI logic with built-in argument parsing, help generation, and modern tooling support.
+
+- 🛠️ **What it does**: Streamlines CLI application development with templates and utilities
+- 🎯 **Why I built it**: Creating CLIs shouldn't be harder than the problem they solve
+- ⚡ **Daily use**: Prototyping tools and automating repetitive tasks
+- 🔗 [NPM Package](https://www.npmjs.com/package/@ideascol/cli-maker) | [GitHub](https://github.com/ideascoldigital/cli-maker)
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -31,50 +43,41 @@ My personal favourite projects are 📌 pinned below!
 ... And several additional articles are available [on my blog](https://dev.to/jairofernandez/). Check it out!
 ### ✍️ Recent Public Contributions
 
-*Pull Requests I've opened or contributed to recently, only public repositories are visible.*
+*I work in the open: these are all the Pull Requests I've opened or contributed to recently, only public repositories are visible.*
+
+| PR Title | Repository | Changes | Status |
+| --- | --- | --- | --- |
+| [#2652: feat: upgrade validator https://github.com/advisories/GHSA-vghf-hv5q-…](https://github.com/typestack/class-validator/pull/2652) | [`class-validator`](https://github.com/typestack/class-validator) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=9&del=8&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=9&del=8&height=18"><img src="https://diff-counter.patrickdap.dev/?add=9&del=8&height=18" alt="+9 -8"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-closed.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-closed.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-closed.png" width="12" height="12" alt="closed"></picture> closed |
+| [#16: Feat/security](https://github.com/ideascoldigital/fnpm/pull/16) | [`fnpm`](https://github.com/ideascoldigital/fnpm) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=2497&del=8&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=2497&del=8&height=18"><img src="https://diff-counter.patrickdap.dev/?add=2497&del=8&height=18" alt="+2,497 -8"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
+| [#581: chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
+| [#873: feat: upgrade k3s version to 1.30.5 and fix helm provider syntax](https://github.com/konstructio/gitops-template/pull/873) | [`gitops-template`](https://github.com/konstructio/gitops-template) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18"><img src="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18" alt="+4 -4"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
+| [#870: chore: upgrade kubernetes version to 1.30.5-k3s1](https://github.com/konstructio/gitops-template/pull/870) | [`gitops-template`](https://github.com/konstructio/gitops-template) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=2&del=2&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=2&del=2&height=18"><img src="https://diff-counter.patrickdap.dev/?add=2&del=2&height=18" alt="+2 -2"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
+| [#4: Feat/bun support](https://github.com/ideascoldigital/cli-maker/pull/4) | [`cli-maker`](https://github.com/ideascoldigital/cli-maker) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=194&del=45&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=194&del=45&height=18"><img src="https://diff-counter.patrickdap.dev/?add=194&del=45&height=18" alt="+194 -45"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
+| [#14: FLY-52: temporally vagrant version](https://github.com/konstructio/colony-vagrant/pull/14) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
+| [#13: fix: remove automatic helm upgrade](https://github.com/konstructio/colony-vagrant/pull/13) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18"><img src="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18" alt="+8 -31"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
+| [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
+| [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-* [#2652 - feat: upgrade validator https://github.com/advisories/GHSA-vghf-hv5q-…](https://github.com/typestack/class-validator/pull/2652) on `typestack/class-validator` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#16 - Feat/security](https://github.com/ideascoldigital/fnpm/pull/16) on `ideascoldigital/fnpm` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#581 - chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#873 - feat: upgrade k3s version to 1.30.5 and fix helm provider syntax](https://github.com/konstructio/gitops-template/pull/873) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#870 - chore: upgrade kubernetes version to 1.30.5-k3s1](https://github.com/konstructio/gitops-template/pull/870) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#4 - Feat/bun support](https://github.com/ideascoldigital/cli-maker/pull/4) on `ideascoldigital/cli-maker` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#14 - FLY-52: temporally vagrant version](https://github.com/konstructio/colony-vagrant/pull/14) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#13 - fix: remove automatic helm upgrade](https://github.com/konstructio/colony-vagrant/pull/13) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#12 - feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
-* [#9 - (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
+Overall, my most recent contributions (besides my own repos) have gone to [@OnWatchUS](https://github.com/OnWatchUS), [@ClientCall](https://github.com/ClientCall), [@dagrinchi](https://github.com/dagrinchi), [@ideascoldigital](https://github.com/ideascoldigital) and [@konstructio](https://github.com/konstructio).
 
-Overall, my most recent contributions (besides my own repos) have gone to 
-[@solana-labs](https://github.com/solana-labs),
-[@origami-corp](https://github.com/origami-corp),
-[@Fundefir-dev](https://github.com/Fundefir-dev),
-[@ClientCall](https://github.com/ClientCall)
-and [@api-platform](https://github.com/api-platform).
+
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
+| Repository | Stars | Repository | Stars |
+|------------|-------|------------|-------|
+|  [apple/container](https://github.com/apple/container)  |  22.8K ⭐  |  [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice)  |  1.2K ⭐  |
+|  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |  [codexu/note-gen](https://github.com/codexu/note-gen)  |  10.2K ⭐  |
+|  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  52.1K ⭐  |  [dolanmiu/docsify-terminal-bloc...](https://github.com/dolanmiu/docsify-terminal-block)  |  19 ⭐  |
+|  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  5 ⭐  |  [teelur/budget-board](https://github.com/teelur/budget-board)  |  616 ⭐  |
+|  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.6K ⭐  |  [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor)  |  2.6K ⭐  |
+|  [actualbudget/actual](https://github.com/actualbudget/actual)  |  23.7K ⭐  |  [langflow-ai/langflow](https://github.com/langflow-ai/langflow)  |  141.5K ⭐  |
+|  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  43.3K ⭐  |  [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  |  180.4K ⭐  |
+|  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  45 ⭐  |  [wovalle/fireorm](https://github.com/wovalle/fireorm)  |  581 ⭐  |
+|  [civo/civogo](https://github.com/civo/civogo)  |  46 ⭐  |  [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel)  |  12 ⭐  |
+|  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.1K ⭐  |  [jmcdice/abideify](https://github.com/jmcdice/abideify)  |  9 ⭐  |
 
-* [apple/container](https://github.com/apple/container) from [@apple](https://github.com/apple) with 22.8K ⭐️
-* [patrickdappollonio/github-authorized-secrets](https://github.com/patrickdappollonio/github-authorized-secrets) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
-* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) from [@dani-garcia](https://github.com/dani-garcia) with 52.1K ⭐️
-* [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm) from [@ideascoldigital](https://github.com/ideascoldigital) with 5 ⭐️
-* [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) from [@logisim-evolution](https://github.com/logisim-evolution) with 6.6K ⭐️
-* [actualbudget/actual](https://github.com/actualbudget/actual) from [@actualbudget](https://github.com/actualbudget) with 23.7K ⭐️
-* [slidevjs/slidev](https://github.com/slidevjs/slidev) from [@slidevjs](https://github.com/slidevjs) with 43.3K ⭐️
-* [marcusbuffett/chess-tactics-cli](https://github.com/marcusbuffett/chess-tactics-cli) from [@marcusbuffett](https://github.com/marcusbuffett) with 45 ⭐️
-* [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 46 ⭐️
-* [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) from [@microsoft](https://github.com/microsoft) with 9.1K ⭐️
-* [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) from [@kevinshen56714](https://github.com/kevinshen56714) with 1.2K ⭐️
-* [codexu/note-gen](https://github.com/codexu/note-gen) from [@codexu](https://github.com/codexu) with 10.2K ⭐️
-* [dolanmiu/docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) from [@dolanmiu](https://github.com/dolanmiu) with 19 ⭐️
-* [teelur/budget-board](https://github.com/teelur/budget-board) from [@teelur](https://github.com/teelur) with 616 ⭐️
-* [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) from [@yoopta-editor](https://github.com/yoopta-editor) with 2.6K ⭐️
-* [langflow-ai/langflow](https://github.com/langflow-ai/langflow) from [@langflow-ai](https://github.com/langflow-ai) with 141.5K ⭐️
-* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) from [@Significant-Gravitas](https://github.com/Significant-Gravitas) with 180.4K ⭐️
-* [wovalle/fireorm](https://github.com/wovalle/fireorm) from [@wovalle](https://github.com/wovalle) with 581 ⭐️
-* [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) from [@jmcdice](https://github.com/jmcdice) with 12 ⭐️
-* [jmcdice/abideify](https://github.com/jmcdice/abideify) from [@jmcdice](https://github.com/jmcdice) with 9 ⭐️
+<sup><sub>Last updated: December 18, 2025 at 14:57:29 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
-<sup><sub>Last updated: December 18, 2025 at 11:08:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
