@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@dagrinchi](https://github.com/dagrinchi), [@kubefirst](https://github.com/kubefirst), [@origami-corp](https://github.com/origami-corp), [@Fundefir-dev](https://github.com/Fundefir-dev) and [@api-platform](https://github.com/api-platform).
+Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs) and [@origami-corp](https://github.com/origami-corp).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -77,9 +77,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@dagr
 |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  43.3K ⭐  |  [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  |  180.4K ⭐  |
 |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  45 ⭐  |  [wovalle/fireorm](https://github.com/wovalle/fireorm)  |  581 ⭐  |
 |  [civo/civogo](https://github.com/civo/civogo)  |  46 ⭐  |  [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel)  |  12 ⭐  |
-|  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.1K ⭐  |  [jmcdice/abideify](https://github.com/jmcdice/abideify)  |  9 ⭐  |
+|  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.2K ⭐  |  [jmcdice/abideify](https://github.com/jmcdice/abideify)  |  9 ⭐  |
 
-<sup><sub>Last updated: December 19, 2025 at 23:10:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 20, 2025 at 03:08:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
