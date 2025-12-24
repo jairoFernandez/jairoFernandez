@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS), [@api-platform](https://github.com/api-platform), [@ideascoldigital](https://github.com/ideascoldigital) and [@kubefirst](https://github.com/kubefirst).
+Overall, my most recent contributions (besides my own repos) have gone to [@api-platform](https://github.com/api-platform), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV) and [@OnWatchUS](https://github.com/OnWatchUS).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -75,11 +75,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@orig
 |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.6K ⭐  |  [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor)  |  2.6K ⭐  |
 |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  23.8K ⭐  |  [langflow-ai/langflow](https://github.com/langflow-ai/langflow)  |  141.9K ⭐  |
 |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  43.3K ⭐  |  [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  |  180.5K ⭐  |
-|  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  45 ⭐  |  [wovalle/fireorm](https://github.com/wovalle/fireorm)  |  581 ⭐  |
+|  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  45 ⭐  |  [wovalle/fireorm](https://github.com/wovalle/fireorm)  |  582 ⭐  |
 |  [civo/civogo](https://github.com/civo/civogo)  |  46 ⭐  |  [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel)  |  12 ⭐  |
 |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.2K ⭐  |  [jmcdice/abideify](https://github.com/jmcdice/abideify)  |  9 ⭐  |
 
-<sup><sub>Last updated: December 23, 2025 at 23:17:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 24, 2025 at 03:09:39 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
