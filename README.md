@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs) and [@origami-corp](https://github.com/origami-corp).
+Overall, my most recent contributions (besides my own repos) have gone to [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev), [@api-platform](https://github.com/api-platform), [@ideascoldigital](https://github.com/ideascoldigital) and [@algolia](https://github.com/algolia).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -71,7 +71,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 |  [apple/container](https://github.com/apple/container)  |  23K ⭐  |  [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice)  |  1.2K ⭐  |
 |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |  [codexu/note-gen](https://github.com/codexu/note-gen)  |  10.4K ⭐  |
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  52.8K ⭐  |  [dolanmiu/docsify-terminal-bloc...](https://github.com/dolanmiu/docsify-terminal-block)  |  19 ⭐  |
-|  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  5 ⭐  |  [teelur/budget-board](https://github.com/teelur/budget-board)  |  647 ⭐  |
+|  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  5 ⭐  |  [teelur/budget-board](https://github.com/teelur/budget-board)  |  649 ⭐  |
 |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.6K ⭐  |  [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor)  |  2.7K ⭐  |
 |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  23.10K ⭐  |  [langflow-ai/langflow](https://github.com/langflow-ai/langflow)  |  142.6K ⭐  |
 |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  43.4K ⭐  |  [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  |  180.8K ⭐  |
@@ -79,7 +79,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 |  [civo/civogo](https://github.com/civo/civogo)  |  46 ⭐  |  [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel)  |  12 ⭐  |
 |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.2K ⭐  |  [jmcdice/abideify](https://github.com/jmcdice/abideify)  |  9 ⭐  |
 
-<sup><sub>Last updated: January 02, 2026 at 11:07:39 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 02, 2026 at 15:07:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
