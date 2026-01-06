@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp) and [@ClientCall](https://github.com/ClientCall).
+Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -68,7 +68,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  5.8K ⭐  |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.2K ⭐  |
+|  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  5.9K ⭐  |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.2K ⭐  |
 |  [apple/container](https://github.com/apple/container)  |  23.1K ⭐  |  [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice)  |  1.2K ⭐  |
 |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |  [codexu/note-gen](https://github.com/codexu/note-gen)  |  10.4K ⭐  |
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  52.10K ⭐  |  [dolanmiu/docsify-terminal-bloc...](https://github.com/dolanmiu/docsify-terminal-block)  |  19 ⭐  |
@@ -79,7 +79,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  48 ⭐  |  [wovalle/fireorm](https://github.com/wovalle/fireorm)  |  582 ⭐  |
 |  [civo/civogo](https://github.com/civo/civogo)  |  46 ⭐  |  [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel)  |  12 ⭐  |
 
-<sup><sub>Last updated: January 06, 2026 at 07:12:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 06, 2026 at 11:08:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
