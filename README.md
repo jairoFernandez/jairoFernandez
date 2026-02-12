@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@ClientCall](https://github.com/ClientCall), [@dagrinchi](https://github.com/dagrinchi), [@ideascoldigital](https://github.com/ideascoldigital) and [@solana-labs](https://github.com/solana-labs).
+Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@OnWatchUS](https://github.com/OnWatchUS), [@api-platform](https://github.com/api-platform) and [@dagrinchi](https://github.com/dagrinchi).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -79,7 +79,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Fund
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  54.9K ⭐  |  [dolanmiu/docsify-terminal-bloc...](https://github.com/dolanmiu/docsify-terminal-block)  |  19 ⭐  |
 |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |  [teelur/budget-board](https://github.com/teelur/budget-board)  |  691 ⭐  |
 
-<sup><sub>Last updated: February 12, 2026 at 07:20:34 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 12, 2026 at 11:24:31 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
