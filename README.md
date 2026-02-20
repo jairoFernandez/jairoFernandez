@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@kubefirst](https://github.com/kubefirst), [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
+Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs) and [@origami-corp](https://github.com/origami-corp).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -69,7 +69,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kube
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.8K ⭐  |
-|  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  25K ⭐  |
+|  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  25.1K ⭐  |
 |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  5.4K ⭐  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  44.4K ⭐  |
 |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  18 ⭐  |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  48 ⭐  |
 |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.4K ⭐  |  [civo/civogo](https://github.com/civo/civogo)  |  45 ⭐  |
@@ -79,7 +79,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kube
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  55.2K ⭐  |  [dolanmiu/docsify-terminal-bloc...](https://github.com/dolanmiu/docsify-terminal-block)  |  19 ⭐  |
 |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |  [teelur/budget-board](https://github.com/teelur/budget-board)  |  705 ⭐  |
 
-<sup><sub>Last updated: February 19, 2026 at 15:12:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 19, 2026 at 19:36:05 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
