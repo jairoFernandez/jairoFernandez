@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev) and [@ClientCall](https://github.com/ClientCall).
+Overall, my most recent contributions (besides my own repos) have gone to [@CodelyTV](https://github.com/CodelyTV), [@api-platform](https://github.com/api-platform), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs) and [@OnWatchUS](https://github.com/OnWatchUS).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -68,18 +68,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  13.9K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  55.5K ⭐  |
+|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  14.1K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  55.5K ⭐  |
 |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  19.4K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.8K ⭐  |
 |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  25.1K ⭐  |
-|  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  5.5K ⭐  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  44.4K ⭐  |
+|  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  5.5K ⭐  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  44.5K ⭐  |
 |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  18 ⭐  |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  48 ⭐  |
 |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.4K ⭐  |  [civo/civogo](https://github.com/civo/civogo)  |  45 ⭐  |
 |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  10.4K ⭐  |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.5K ⭐  |
 |  [apple/container](https://github.com/apple/container)  |  24.8K ⭐  |  [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice)  |  1.2K ⭐  |
 |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |  [codexu/note-gen](https://github.com/codexu/note-gen)  |  10.9K ⭐  |
 
-<sup><sub>Last updated: February 24, 2026 at 15:13:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 24, 2026 at 19:40:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
