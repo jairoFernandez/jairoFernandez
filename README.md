@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev) and [@ClientCall](https://github.com/ClientCall).
+Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs) and [@kubefirst](https://github.com/kubefirst).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -69,8 +69,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@orig
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
-|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  20.2K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  56.1K ⭐  |
-|  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  21.4K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
+|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  20.8K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  56.1K ⭐  |
+|  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  21.5K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.8K ⭐  |
 |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  25.2K ⭐  |
 |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  5.6K ⭐  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  44.6K ⭐  |
@@ -79,7 +79,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@orig
 |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  10.5K ⭐  |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.5K ⭐  |
 |  [apple/container](https://github.com/apple/container)  |  24.9K ⭐  |  [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice)  |  1.2K ⭐  |
 
-<sup><sub>Last updated: March 01, 2026 at 23:38:41 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 02, 2026 at 03:18:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
