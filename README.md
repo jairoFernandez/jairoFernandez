@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#9: (DON'T MERGE BEFORE v0.1.x ⚠️)  feat: move to k3s from k3d - colony issues purposal](https://github.com/konstructio/colony-vagrant/pull/9) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18"><img src="https://diff-counter.patrickdap.dev/?add=60&del=41&height=18" alt="+60 -41"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi), [@konstructio](https://github.com/konstructio), [@algolia](https://github.com/algolia) and [@origami-corp](https://github.com/origami-corp).
+Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@dagrinchi](https://github.com/dagrinchi), [@konstructio](https://github.com/konstructio), [@solana-labs](https://github.com/solana-labs) and [@CodelyTV](https://github.com/CodelyTV).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -68,18 +68,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@api-
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  5.6K ⭐  |  [apple/container](https://github.com/apple/container)  |  24.10K ⭐  |
+|  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  5.7K ⭐  |  [apple/container](https://github.com/apple/container)  |  25K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
-|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  28.4K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  56.3K ⭐  |
-|  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  21.10K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
+|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  28.9K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  56.3K ⭐  |
+|  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  22K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.8K ⭐  |
 |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  25.3K ⭐  |
 |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  5.6K ⭐  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  44.6K ⭐  |
 |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  18 ⭐  |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  49 ⭐  |
 |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.4K ⭐  |  [civo/civogo](https://github.com/civo/civogo)  |  45 ⭐  |
-|  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  10.5K ⭐  |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.6K ⭐  |
+|  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  10.6K ⭐  |  [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)  |  9.6K ⭐  |
 
-<sup><sub>Last updated: March 04, 2026 at 03:14:31 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 04, 2026 at 07:17:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
