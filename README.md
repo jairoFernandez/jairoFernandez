@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@algolia](https://github.com/algolia), [@origami-corp](https://github.com/origami-corp) and [@Fundefir-dev](https://github.com/Fundefir-dev).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@konstructio](https://github.com/konstructio), [@origami-corp](https://github.com/origami-corp), [@Fundefir-dev](https://github.com/Fundefir-dev) and [@dagrinchi](https://github.com/dagrinchi).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -79,7 +79,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  49 ⭐  |
 |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.4K ⭐  |  [civo/civogo](https://github.com/civo/civogo)  |  45 ⭐  |
 
-<sup><sub>Last updated: March 23, 2026 at 12:24:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 23, 2026 at 16:16:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
