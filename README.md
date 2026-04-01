@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@algolia](https://github.com/algolia), [@Fundefir-dev](https://github.com/Fundefir-dev), [@api-platform](https://github.com/api-platform) and [@dagrinchi](https://github.com/dagrinchi).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV) and [@OnWatchUS](https://github.com/OnWatchUS).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -68,7 +68,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@micr
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.7K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  10.10K ⭐  |
+|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.8K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  10.10K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  9.7K ⭐  |  [apple/container](https://github.com/apple/container)  |  25.6K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  45.9K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  57.8K ⭐  |
@@ -79,7 +79,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@micr
 |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  49 ⭐  |
 |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.4K ⭐  |  [civo/civogo](https://github.com/civo/civogo)  |  45 ⭐  |
 
-<sup><sub>Last updated: April 01, 2026 at 12:25:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 01, 2026 at 16:18:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
