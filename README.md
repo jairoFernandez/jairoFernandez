@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft) and [@ideascoldigital](https://github.com/ideascoldigital).
+Overall, my most recent contributions (besides my own repos) have gone to [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia) and [@origami-corp](https://github.com/origami-corp).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -75,11 +75,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Fund
 |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  27.7K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  6.10K ⭐  |
 |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |  [actualbudget/actual](https://github.com/actualbudget/actual)  |  25.8K ⭐  |
-|  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  7.2K ⭐  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  45.5K ⭐  |
+|  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  7.4K ⭐  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  45.5K ⭐  |
 |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |  [marcusbuffett/chess-tactics-cl...](https://github.com/marcusbuffett/chess-tactics-cli)  |  49 ⭐  |
 |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |  [civo/civogo](https://github.com/civo/civogo)  |  45 ⭐  |
 
-<sup><sub>Last updated: April 06, 2026 at 16:17:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 06, 2026 at 20:43:34 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
