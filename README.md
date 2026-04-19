@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia), [@origami-corp](https://github.com/origami-corp) and [@OnWatchUS](https://github.com/OnWatchUS).
+Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@dagrinchi](https://github.com/dagrinchi), [@konstructio](https://github.com/konstructio), [@solana-labs](https://github.com/solana-labs) and [@CodelyTV](https://github.com/CodelyTV).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -72,14 +72,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  652 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.4K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  1.3K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
 |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  47.9K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
-|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.9K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  19.7K ⭐  |
+|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.9K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  19.8K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.1K ⭐  |  [apple/container](https://github.com/apple/container)  |  25.10K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
-|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  48.10K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  58.6K ⭐  |
+|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  49.1K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  58.6K ⭐  |
 |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  28.3K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  7K ⭐  |
 
-<sup><sub>Last updated: April 18, 2026 at 20:48:59 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 19, 2026 at 01:05:09 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
