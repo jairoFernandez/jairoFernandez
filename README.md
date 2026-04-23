@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ClientCall](https://github.com/ClientCall), [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft), [@algolia](https://github.com/algolia) and [@solana-labs](https://github.com/solana-labs).
+Overall, my most recent contributions (besides my own repos) have gone to [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi), [@ideascoldigital](https://github.com/ideascoldigital), [@origami-corp](https://github.com/origami-corp) and [@CodelyTV](https://github.com/CodelyTV).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -69,17 +69,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Clie
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  18K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
-|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  661 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.5K ⭐  |
+|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  663 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.5K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
-|  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  48.10K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
-|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.9K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  20.10K ⭐  |
+|  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  49K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
+|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.9K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  21K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.2K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.1K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
-|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  51.4K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  58.7K ⭐  |
+|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  51.6K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  58.7K ⭐  |
 |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  28.4K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  7K ⭐  |
 
-<sup><sub>Last updated: April 22, 2026 at 16:24:09 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 22, 2026 at 20:49:38 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
