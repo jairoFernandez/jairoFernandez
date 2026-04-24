@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@kubefirst](https://github.com/kubefirst), [@OnWatchUS](https://github.com/OnWatchUS), [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform) and [@dagrinchi](https://github.com/dagrinchi).
+Overall, my most recent contributions (besides my own repos) have gone to [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform), [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital) and [@solana-labs](https://github.com/solana-labs).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -75,11 +75,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kube
 |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.9K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  21.3K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.2K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.1K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
-|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  52.4K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  59K ⭐  |
+|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  52.4K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  59.1K ⭐  |
 |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  28.5K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  7K ⭐  |
 
-<sup><sub>Last updated: April 24, 2026 at 08:29:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 24, 2026 at 12:25:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
