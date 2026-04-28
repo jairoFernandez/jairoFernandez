@@ -58,7 +58,7 @@ My personal favourite projects are 📌 pinned below!
 | [#2: Creados Municipios y departamentos, spinner departamentos funcional](https://github.com/dagrinchi/ProcesAgro/pull/2) | [`ProcesAgro`](https://github.com/dagrinchi/ProcesAgro) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=381&del=150&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=381&del=150&height=18"><img src="https://diff-counter.patrickdap.dev/?add=381&del=150&height=18" alt="+381 -150"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst) and [@api-platform](https://github.com/api-platform).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst), [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi) and [@microsoft](https://github.com/microsoft).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -68,9 +68,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@micr
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  18.4K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
-|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  669 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.6K ⭐  |
+|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  669 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.7K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.3K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
-|  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  49.10K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
+|  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  50K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
 |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  15.10K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  22.2K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.3K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.1K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
@@ -78,7 +78,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@micr
 |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  28.6K ⭐  |  [ideascoldigital/fnpm](https://github.com/ideascoldigital/fnpm)  |  6 ⭐  |
 |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |  [logisim-evolution/logisim-evol...](https://github.com/logisim-evolution/logisim-evolution)  |  7K ⭐  |
 
-<sup><sub>Last updated: April 27, 2026 at 16:29:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 27, 2026 at 20:52:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
