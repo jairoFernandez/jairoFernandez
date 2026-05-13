@@ -59,7 +59,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@CodelyTV](https://github.com/CodelyTV), [@ClientCall](https://github.com/ClientCall), [@kubefirst](https://github.com/kubefirst), [@solana-labs](https://github.com/solana-labs) and [@OnWatchUS](https://github.com/OnWatchUS).
+Overall, my most recent contributions (besides my own repos) have gone to [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi), [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio) and [@kubefirst](https://github.com/kubefirst).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -69,7 +69,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Code
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  28.10K ⭐  |
-|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  96.4K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
+|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  96.5K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  19.3K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
 |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  681 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.8K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.6K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
@@ -77,9 +77,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Code
 |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.1K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  23.8K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.6K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.5K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
-|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  60.2K ⭐  |
+|  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.1K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  60.2K ⭐  |
 
-<sup><sub>Last updated: May 12, 2026 at 16:37:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 12, 2026 at 20:56:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
