@@ -58,7 +58,9 @@ jobs:
             fi
 
             echo "Push rejected, retrying (attempt ${ATTEMPT} of ${MAX_ATTEMPTS})..."
-            sleep $((5 * (2 ** (ATTEMPT - 1))))
+            if [ "${ATTEMPT}" -lt "${MAX_ATTEMPTS}" ]; then
+              sleep $((5 * (2 ** (ATTEMPT - 1))))
+            fi
           done
 
           echo "Failed to push README update after ${MAX_ATTEMPTS} attempts."
