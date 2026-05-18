@@ -36,9 +36,10 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          BRANCH="${GITHUB_REF_NAME:-master}"
+          BRANCH="${GITHUB_REF_NAME}"
+          MAX_ATTEMPTS=3
 
-          for ATTEMPT in 1 2 3; do
+          for ATTEMPT in $(seq 1 "${MAX_ATTEMPTS}"); do
             git fetch origin "${BRANCH}"
             git reset --hard "origin/${BRANCH}"
 
@@ -56,11 +57,11 @@ jobs:
               exit 0
             fi
 
-            echo "Push rejected, retrying (attempt ${ATTEMPT} of 3)..."
+            echo "Push rejected, retrying (attempt ${ATTEMPT} of ${MAX_ATTEMPTS})..."
             sleep $((ATTEMPT * 5))
           done
 
-          echo "Failed to push README update after 3 attempts."
+          echo "Failed to push README update after ${MAX_ATTEMPTS} attempts."
           exit 1
         env:
           RSS_FEED: "https://dev.to/feed/jairofernandez"
