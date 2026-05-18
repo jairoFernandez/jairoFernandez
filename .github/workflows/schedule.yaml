@@ -36,10 +36,35 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          patrickdappollonio > README.md
-          git add README.md || echo "No changes to add"
-          git commit -m "[ci skip] Updating README with latest information" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          BRANCH="${GITHUB_REF_NAME}"
+          MAX_ATTEMPTS=3
+
+          for ATTEMPT in $(seq 1 "${MAX_ATTEMPTS}"); do
+            git fetch origin "${BRANCH}"
+            git reset --hard "origin/${BRANCH}"
+
+            patrickdappollonio > README.md
+            git add README.md
+
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+              exit 0
+            fi
+
+            git commit -m "[ci skip] Updating README with latest information"
+
+            if git push origin "HEAD:${BRANCH}"; then
+              exit 0
+            fi
+
+            echo "Push rejected, retrying (attempt ${ATTEMPT} of ${MAX_ATTEMPTS})..."
+            if [ "${ATTEMPT}" -lt "${MAX_ATTEMPTS}" ]; then
+              sleep $((5 * (2 ** (ATTEMPT - 1))))
+            fi
+          done
+
+          echo "Failed to push README update after ${MAX_ATTEMPTS} attempts."
+          exit 1
         env:
           RSS_FEED: "https://dev.to/feed/jairofernandez"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
