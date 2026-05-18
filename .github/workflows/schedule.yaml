@@ -56,8 +56,8 @@ jobs:
               exit 0
             fi
 
-            echo "Push rejected, retrying (${ATTEMPT}/3)..."
-            sleep 5
+            echo "Push rejected, retrying (attempt ${ATTEMPT} of 3)..."
+            sleep $((ATTEMPT * 5))
           done
 
           echo "Failed to push README update after 3 attempts."
