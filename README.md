@@ -2,15 +2,22 @@
 
 ## Hello! 👋 Welcome to my Github Profile!
 
-I'm [Jairo Fernandez](https://www.linkedin.com/in/jairofernandezvega/), I'm a Colombian 🇨🇴 and a Fullstack Developer working at [Konstruct](https://konstruct.io). I work mostly with Nodejs and Kubernetes in my day-to-day, and as such, you'll see a few tools below I've built over time to solve *personal itches*. If any of the applications you see are valuable to you or have any feedback, please do not hesitate to create an issue in their respective repository, or message me on Twitter: [@jairoAFernandez](https://x.com/jairoAFernandez). I'm always looking forward to feedback!
+I'm [Jairo Fernandez](https://www.linkedin.com/in/jairofernandezvega/), Colombian 🇨🇴 Fullstack Developer at [Konstruct](https://konstruct.io). I mostly work with Node.js + Kubernetes and I love building tools that delete developer pain (and a little chaos) from daily workflows.
 
-If you want to know more about me, you can visit my [personal website](https://dev.to/jairofernandez) (some of the most recent articles I've written are listed below!), follow me on [Twitter/X](https://x.com/jairoAFernandez) or add me on [LinkedIn](https://www.linkedin.com/in/jairofernandezvega/).
+Want to connect? Find me on [Dev.to](https://dev.to/jairofernandez), [Twitter/X](https://x.com/jairoAFernandez), or [LinkedIn](https://www.linkedin.com/in/jairofernandezvega/).
 
-My personal favourite projects are 📌 pinned below!
+Here are my favorite builds 👇
 
 ### 🚀 Tools I Use Daily
 
-*These are the projects I've built that I actually use every single day - they solve real problems and make my workflow smoother.*
+*Projects I use often, built to make developer life easier and more fun.*
+
+#### [Knock](https://github.com/jairoFernandez/knock) - API Testing Without the Bloat
+**A fresh alternative to Insomnia, Postman and friends.** Fast, focused, and built for people who just want to hit endpoints and move on.
+
+- ⚡ **What it does**: API testing with a lightweight, no-nonsense workflow
+- 🧠 **Why I built it**: I wanted less setup, less noise, and more shipping
+- 📰 **Read more**: [Knock: A new alternative to Insomnia, Postman and more](https://dev.to/jairofernandez/knock-a-new-alternative-to-insomnia-postman-and-more-1nf9)
 
 #### [FNPM](https://fnpm-docs.vercel.app/) - End the Package Manager Wars
 **The peace treaty for npm vs yarn vs pnpm drama.** Let your team use their favorite package manager while keeping projects consistent. Features transparent aliases, unified lock files, and zero learning curve.
@@ -32,6 +39,7 @@ My personal favourite projects are 📌 pinned below!
 *(Some content might be written in Spanish)*
 
 
+* [Knock a new alternative to Insomnia, postman and more...](https://dev.to/jairofernandez/knock-a-new-alternative-to-insomnia-postman-and-more-1nf9?ref=github-profile) *(published on May 18, 2026)*
 * [🚀 FNPM Just Became Invisible (In the Good Way): Transparent Alias, Better Tests & a Smoother Experience](https://dev.to/jairofernandez/fnpm-just-became-invisible-in-the-good-way-transparent-alias-better-tests-a-smoother-2af?ref=github-profile) *(published on November 14, 2025)*
 * [FNPM: The Package Manager Drama Ends Here 🚀](https://dev.to/jairofernandez/fnpm-the-package-manager-drama-ends-here-4i0f?ref=github-profile) *(published on February 13, 2025)*
 * [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd?ref=github-profile) *(published on August 14, 2024)*
@@ -59,7 +67,7 @@ My personal favourite projects are 📌 pinned below!
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst), [@solana-labs](https://github.com/solana-labs), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp) and [@Fundefir-dev](https://github.com/Fundefir-dev).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -79,7 +87,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.3K ⭐  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  60.5K ⭐  |
 
-<sup><sub>Last updated: May 17, 2026 at 20:59:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 17, 2026 at 21:50:34 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
