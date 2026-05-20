@@ -67,7 +67,7 @@ Here are my favorite builds 👇
 | [#12: feat: add physical requirements](https://github.com/konstructio/colony-vagrant/pull/12) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18"><img src="https://diff-counter.patrickdap.dev/?add=66&del=21&height=18" alt="+66 -21"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png" width="12" height="12" alt="draft"></picture> draft |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp) and [@ClientCall](https://github.com/ClientCall).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst), [@solana-labs](https://github.com/solana-labs) and [@dagrinchi](https://github.com/dagrinchi).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -76,18 +76,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Fund
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  502.7K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.5K ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  502.8K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.5K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.1K ⭐  |
-|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  102.4K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
+|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  102.6K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  19.10K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
-|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  691 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.9K ⭐  |
+|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  692 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.9K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.6K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
-|  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  52.5K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
-|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.1K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  24.1K ⭐  |
+|  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  52.6K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
+|  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.2K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  24.2K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.7K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.6K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 
-<sup><sub>Last updated: May 20, 2026 at 09:02:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 20, 2026 at 13:10:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
