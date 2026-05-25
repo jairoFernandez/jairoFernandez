@@ -67,7 +67,7 @@ Here are my favorite builds 👇
 | [#13: fix: remove automatic helm upgrade](https://github.com/konstructio/colony-vagrant/pull/13) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18"><img src="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18" alt="+8 -31"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital), [@kubefirst](https://github.com/kubefirst) and [@solana-labs](https://github.com/solana-labs).
+Overall, my most recent contributions (besides my own repos) have gone to [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev), [@ClientCall](https://github.com/ClientCall) and [@ideascoldigital](https://github.com/ideascoldigital).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -76,7 +76,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@dagr
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  504.3K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.9K ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  504.4K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.9K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.2K ⭐  |
 |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  104.8K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  20.2K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
@@ -87,7 +87,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@dagr
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.8K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.6K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 
-<sup><sub>Last updated: May 24, 2026 at 21:02:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 25, 2026 at 01:38:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
