@@ -67,7 +67,7 @@ Here are my favorite builds 👇
 | [#13: fix: remove automatic helm upgrade](https://github.com/konstructio/colony-vagrant/pull/13) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18"><img src="https://diff-counter.patrickdap.dev/?add=8&del=31&height=18" alt="+8 -31"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@dagrinchi](https://github.com/dagrinchi), [@ideascoldigital](https://github.com/ideascoldigital), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia) and [@CodelyTV](https://github.com/CodelyTV).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@konstructio](https://github.com/konstructio), [@CodelyTV](https://github.com/CodelyTV), [@ClientCall](https://github.com/ClientCall) and [@dagrinchi](https://github.com/dagrinchi).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -87,7 +87,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@dagr
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.8K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.6K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 
-<sup><sub>Last updated: May 25, 2026 at 20:58:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 26, 2026 at 01:26:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
