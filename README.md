@@ -67,7 +67,7 @@ Here are my favorite builds 👇
 | [#14: FLY-52: temporally vagrant version](https://github.com/konstructio/colony-vagrant/pull/14) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@microsoft](https://github.com/microsoft), [@kubefirst](https://github.com/kubefirst), [@solana-labs](https://github.com/solana-labs) and [@origami-corp](https://github.com/origami-corp).
+Overall, my most recent contributions (besides my own repos) have gone to [@OnWatchUS](https://github.com/OnWatchUS), [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform), [@konstructio](https://github.com/konstructio) and [@ideascoldigital](https://github.com/ideascoldigital).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -76,18 +76,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  504.9K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.10K ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  504.10K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.10K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.2K ⭐  |
-|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  105.3K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
+|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  105.4K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  20.3K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
-|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  696 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.9K ⭐  |
+|  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  697 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.9K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.7K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
 |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  52.9K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
 |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.2K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  24.3K ⭐  |
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.8K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.6K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 
-<sup><sub>Last updated: May 26, 2026 at 21:01:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 27, 2026 at 01:34:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
