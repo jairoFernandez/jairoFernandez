@@ -67,7 +67,7 @@ Here are my favorite builds 👇
 | [#14: FLY-52: temporally vagrant version](https://github.com/konstructio/colony-vagrant/pull/14) | [`colony-vagrant`](https://github.com/konstructio/colony-vagrant) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@kubefirst](https://github.com/kubefirst), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -76,9 +76,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Fund
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  505K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.10K ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  505.2K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  54.10K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.2K ⭐  |
-|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  105.4K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
+|  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  105.5K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  20.4K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
 |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  697 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  9.9K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.7K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
@@ -87,7 +87,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Fund
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.8K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.6K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 
-<sup><sub>Last updated: May 27, 2026 at 05:16:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 27, 2026 at 09:21:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
