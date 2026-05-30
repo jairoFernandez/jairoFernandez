@@ -67,7 +67,7 @@ Here are my favorite builds 👇
 | [#4: Feat/bun support](https://github.com/ideascoldigital/cli-maker/pull/4) | [`cli-maker`](https://github.com/ideascoldigital/cli-maker) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=194&del=45&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=194&del=45&height=18"><img src="https://diff-counter.patrickdap.dev/?add=194&del=45&height=18" alt="+194 -45"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform) and [@dagrinchi](https://github.com/dagrinchi).
+Overall, my most recent contributions (besides my own repos) have gone to [@ClientCall](https://github.com/ClientCall), [@dagrinchi](https://github.com/dagrinchi), [@konstructio](https://github.com/konstructio), [@microsoft](https://github.com/microsoft) and [@ideascoldigital](https://github.com/ideascoldigital).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -76,7 +76,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  507.6K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  55.1K ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  507.7K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  55.1K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.2K ⭐  |
 |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  106.1K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  20.6K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
@@ -87,7 +87,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 |  [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)  |  10.9K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.7K ⭐  |
 |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |  [patrickdappollonio/github-auth...](https://github.com/patrickdappollonio/github-authorized-secrets)  |  1 ⭐  |
 
-<sup><sub>Last updated: May 30, 2026 at 04:53:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 30, 2026 at 08:32:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
