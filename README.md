@@ -67,7 +67,7 @@ Here are my favorite builds 👇
 | [#873: feat: upgrade k3s version to 1.30.5 and fix helm provider syntax](https://github.com/konstructio/gitops-template/pull/873) | [`gitops-template`](https://github.com/konstructio/gitops-template) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18"><img src="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18" alt="+4 -4"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev), [@api-platform](https://github.com/api-platform), [@konstructio](https://github.com/konstructio) and [@microsoft](https://github.com/microsoft).
+Overall, my most recent contributions (besides my own repos) have gone to [@api-platform](https://github.com/api-platform), [@konstructio](https://github.com/konstructio), [@ideascoldigital](https://github.com/ideascoldigital), [@kubefirst](https://github.com/kubefirst) and [@Fundefir-dev](https://github.com/Fundefir-dev).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -87,7 +87,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@OnWa
 |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.3K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  24.6K ⭐  |
 |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  11.4K ⭐  |  [apple/container](https://github.com/apple/container)  |  26.8K ⭐  |
 
-<sup><sub>Last updated: June 07, 2026 at 12:35:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 07, 2026 at 16:31:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
