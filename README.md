@@ -68,7 +68,7 @@ Here are my favorite builds 👇
 | [#873: feat: upgrade k3s version to 1.30.5 and fix helm provider syntax](https://github.com/konstructio/gitops-template/pull/873) | [`gitops-template`](https://github.com/konstructio/gitops-template) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18"><img src="https://diff-counter.patrickdap.dev/?add=4&del=4&height=18" alt="+4 -4"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS), [@ClientCall](https://github.com/ClientCall) and [@api-platform](https://github.com/api-platform).
+Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital) and [@algolia](https://github.com/algolia).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -78,17 +78,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  58 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  11.6K ⭐  |
-|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  34.2K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  516.8K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  56.7K ⭐  |
+|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  34.3K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  516.9K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  56.7K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.4K ⭐  |
 |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  114.3K ⭐  |  [CristhianF7/gastown](https://github.com/CristhianF7/gastown)  |  1 ⭐  |
-|  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  33.9K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
+|  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  34K ⭐  |  [MFernandez93/devcheck](https://github.com/MFernandez93/devcheck)  |  1 ⭐  |
 |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  709 ⭐  |  [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)  |  10K ⭐  |
 |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.8K ⭐  |  [ASC689561/fx-tinny](https://github.com/ASC689561/fx-tinny)  |  19 ⭐  |
 |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  55.9K ⭐  |  [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)  |  1.5K ⭐  |
 |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.6K ⭐  |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)  |  24.8K ⭐  |
 
-<sup><sub>Last updated: June 18, 2026 at 05:37:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 18, 2026 at 09:19:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
