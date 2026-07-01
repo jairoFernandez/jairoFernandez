@@ -39,6 +39,7 @@ Here are my favorite builds 👇
 *(Some content might be written in Spanish)*
 
 
+* [AI fatigue?](https://dev.to/jairofernandez/ai-fatigue-gg2?ref=github-profile) *(published on July 01, 2026)*
 * [Build VS Code Extensions Fast with vsceasy](https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9?ref=github-profile) *(published on June 14, 2026)*
 * [Knock a new alternative to Insomnia, postman and more...](https://dev.to/jairofernandez/knock-a-new-alternative-to-insomnia-postman-and-more-1nf9?ref=github-profile) *(published on May 18, 2026)*
 * [🚀 FNPM Just Became Invisible (In the Good Way): Transparent Alias, Better Tests & a Smoother Experience](https://dev.to/jairofernandez/fnpm-just-became-invisible-in-the-good-way-transparent-alias-better-tests-a-smoother-2af?ref=github-profile) *(published on November 14, 2025)*
@@ -68,7 +69,7 @@ Here are my favorite builds 👇
 | [#581: chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@OnWatchUS](https://github.com/OnWatchUS), [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital) and [@kubefirst](https://github.com/kubefirst).
+Overall, my most recent contributions (besides my own repos) have gone to [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform), [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital) and [@kubefirst](https://github.com/kubefirst).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -77,8 +78,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@OnWa
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  122.7K ⭐  |
-|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  48.1K ⭐  |
+|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  123.1K ⭐  |
+|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  48.2K ⭐  |
 |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  712 ⭐  |
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.9K ⭐  |
 |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  56.8K ⭐  |
@@ -88,7 +89,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@OnWa
 |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  521.4K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  61.1K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.5K ⭐  |
 
-<sup><sub>Last updated: July 01, 2026 at 12:51:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 01, 2026 at 16:39:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
