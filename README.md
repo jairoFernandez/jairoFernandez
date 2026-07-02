@@ -69,7 +69,7 @@ Here are my favorite builds 👇
 | [#581: chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital), [@kubefirst](https://github.com/kubefirst), [@origami-corp](https://github.com/origami-corp) and [@ClientCall](https://github.com/ClientCall).
+Overall, my most recent contributions (besides my own repos) have gone to [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital), [@kubefirst](https://github.com/kubefirst) and [@solana-labs](https://github.com/solana-labs).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -78,9 +78,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@micr
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  124.9K ⭐  |
-|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  48.8K ⭐  |
-|  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  712 ⭐  |
+|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  125.1K ⭐  |
+|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  48.9K ⭐  |
+|  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  713 ⭐  |
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.9K ⭐  |
 |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  56.9K ⭐  |
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.7K ⭐  |
@@ -89,7 +89,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@micr
 |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  521.7K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  61.2K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.7K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.6K ⭐  |
 
-<sup><sub>Last updated: July 02, 2026 at 06:43:31 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 02, 2026 at 10:08:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
