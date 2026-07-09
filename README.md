@@ -69,7 +69,7 @@ Here are my favorite builds 👇
 | [#581: chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev) and [@origami-corp](https://github.com/origami-corp).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@kubefirst](https://github.com/kubefirst), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp) and [@CodelyTV](https://github.com/CodelyTV).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -89,7 +89,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  523.8K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  61.6K ⭐  |
 |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |  [sipeed/picoclaw](https://github.com/sipeed/picoclaw)  |  29.6K ⭐  |
 
-<sup><sub>Last updated: July 09, 2026 at 13:58:22 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 09, 2026 at 17:25:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
