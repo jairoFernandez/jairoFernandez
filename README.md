@@ -69,7 +69,7 @@ Here are my favorite builds 👇
 | [#581: chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV), [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform) and [@dagrinchi](https://github.com/dagrinchi).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@ideascoldigital](https://github.com/ideascoldigital), [@algolia](https://github.com/algolia), [@CodelyTV](https://github.com/CodelyTV) and [@OnWatchUS](https://github.com/OnWatchUS).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -79,17 +79,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@orig
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  24.4K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
-|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  130.10K ⭐  |
+|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  131K ⭐  |
 |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  55.6K ⭐  |
-|  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  714 ⭐  |
+|  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  715 ⭐  |
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  2.9K ⭐  |
 |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  57.3K ⭐  |
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.7K ⭐  |
 |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  71 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  11.10K ⭐  |
-|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  38.1K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  524.7K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  61.8K ⭐  |
+|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  38.2K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  524.8K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  61.8K ⭐  |
 
-<sup><sub>Last updated: July 13, 2026 at 07:14:44 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 13, 2026 at 10:41:06 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
