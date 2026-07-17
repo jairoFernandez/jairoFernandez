@@ -69,7 +69,7 @@ Here are my favorite builds 👇
 | [#581: chore: update golang version to 1.23.0 in .tool-versions](https://github.com/konstructio/kubefirst-api/pull/581) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@CodelyTV](https://github.com/CodelyTV), [@api-platform](https://github.com/api-platform), [@solana-labs](https://github.com/solana-labs) and [@origami-corp](https://github.com/origami-corp).
+Overall, my most recent contributions (besides my own repos) have gone to [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@CodelyTV](https://github.com/CodelyTV) and [@ClientCall](https://github.com/ClientCall).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -87,9 +87,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.8K ⭐  |
 |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  71 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12K ⭐  |
 |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  38.7K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  526.7K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  61.9K ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  526.9K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  61.10K ⭐  |
 
-<sup><sub>Last updated: July 17, 2026 at 06:00:43 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 17, 2026 at 09:44:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
