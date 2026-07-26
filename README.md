@@ -69,7 +69,7 @@ Here are my favorite builds 👇
 | [#2: Harden README auto-update workflow against non-fast-forward push conflicts](https://github.com/jairoFernandez/jairoFernandez/pull/2) | [`jairoFernandez`](https://github.com/jairoFernandez/jairoFernandez) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18"><img src="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18" alt="+29 -4"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@Fundefir-dev](https://github.com/Fundefir-dev), [@dagrinchi](https://github.com/dagrinchi), [@konstructio](https://github.com/konstructio) and [@kubefirst](https://github.com/kubefirst).
+Overall, my most recent contributions (besides my own repos) have gone to [@api-platform](https://github.com/api-platform), [@konstructio](https://github.com/konstructio), [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -86,10 +86,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  57.7K ⭐  |
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.8K ⭐  |
 |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.2K ⭐  |
-|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  43.5K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  531.6K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  74.3K ⭐  |
+|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  43.6K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  531.7K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  74.4K ⭐  |
 
-<sup><sub>Last updated: July 26, 2026 at 02:39:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 26, 2026 at 06:02:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
