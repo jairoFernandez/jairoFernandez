@@ -69,7 +69,7 @@ Here are my favorite builds 👇
 | [#2: Harden README auto-update workflow against non-fast-forward push conflicts](https://github.com/jairoFernandez/jairoFernandez/pull/2) | [`jairoFernandez`](https://github.com/jairoFernandez/jairoFernandez) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18"><img src="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18" alt="+29 -4"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@konstructio](https://github.com/konstructio) and [@microsoft](https://github.com/microsoft).
+Overall, my most recent contributions (besides my own repos) have gone to [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi) and [@microsoft](https://github.com/microsoft).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -87,9 +87,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.8K ⭐  |
 |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.2K ⭐  |
 |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  44.2K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
-|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  532.1K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  75.2K ⭐  |
+|  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  532.2K ⭐  |  [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  |  75.3K ⭐  |
 
-<sup><sub>Last updated: July 27, 2026 at 13:44:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 27, 2026 at 17:13:41 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
