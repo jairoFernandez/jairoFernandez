@@ -69,7 +69,7 @@ Here are my favorite builds 👇
 | [#2: Harden README auto-update workflow against non-fast-forward push conflicts](https://github.com/jairoFernandez/jairoFernandez/pull/2) | [`jairoFernandez`](https://github.com/jairoFernandez/jairoFernandez) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18"><img src="https://diff-counter.patrickdap.dev/?add=29&del=4&height=18" alt="+29 -4"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS), [@microsoft](https://github.com/microsoft), [@Fundefir-dev](https://github.com/Fundefir-dev) and [@ClientCall](https://github.com/ClientCall).
+Overall, my most recent contributions (besides my own repos) have gone to [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS), [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi) and [@microsoft](https://github.com/microsoft).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -78,7 +78,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Code
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [31qk/se](https://github.com/31qk/se)  |  22 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  532.10K ⭐  |
+|  [31qk/se](https://github.com/31qk/se)  |  22 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  533K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  25.4K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
 |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  137.6K ⭐  |
 |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  62.8K ⭐  |
@@ -89,7 +89,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Code
 |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.3K ⭐  |
 |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  45.1K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
 
-<sup><sub>Last updated: July 30, 2026 at 10:08:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 30, 2026 at 13:37:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
