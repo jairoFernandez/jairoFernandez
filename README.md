@@ -34,6 +34,20 @@ Here are my favorite builds 👇
 - 🎯 **Why I built it**: Creating CLIs shouldn't be harder than the problem they solve
 - ⚡ **Daily use**: Prototyping tools and automating repetitive tasks
 - 🔗 [NPM Package](https://www.npmjs.com/package/@ideascol/cli-maker) | [GitHub](https://github.com/ideascoldigital/cli-maker)
+
+#### [Code Coach](https://github.com/jairoFernandez/code-coach) - Practice Algorithms by Actually Typing Them
+**A VS Code extension that trains muscle memory, not copy-paste reflexes.** It measures your real typing speed and accuracy while you solve interview problems, blocks paste entirely, generates fresh exercises with a local AI model, and targets your weakest topics automatically.
+
+- ⌨️ **What it does**: Enforces real typing practice through guided modes (Typing, Assisted, TDD, Blind), an AI coach, and an MCP interface for agents
+- 🧠 **Why I built it**: Pasting solutions teaches nothing — you need the physical memory of writing code under pressure
+- 🔗 [GitHub](https://github.com/jairoFernandez/code-coach)
+
+#### [vsceasy](https://vsceasy.dev) - Build VS Code Extensions Fast
+**The fastest way to scaffold a VS Code extension with React UI.** Zero-config build, a typed RPC bridge between extension and webview, and a CLI that gets you from zero to running in one command.
+
+- 🛠️ **What it does**: Scaffolds VS Code extensions with React + typed RPC, handling all the boilerplate so you focus on your feature
+- 🎯 **Why I built it**: The official extension API is powerful but verbose — vsceasy removes the ceremony
+- 🔗 [Documentation](https://vsceasy.dev) | [GitHub](https://github.com/jairoFernandez/vsceasy)
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
