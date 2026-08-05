@@ -83,7 +83,7 @@ Here are my favorite builds 👇
 | [#2: feat: add knock-mock crate for mock HTTP server functionality](https://github.com/jairoFernandez/knock/pull/2) | [`knock`](https://github.com/jairoFernandez/knock) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=2964&del=117&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=2964&del=117&height=18"><img src="https://diff-counter.patrickdap.dev/?add=2964&del=117&height=18" alt="+2,964 -117"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS) and [@ClientCall](https://github.com/ClientCall).
+Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@origami-corp](https://github.com/origami-corp), [@Fundefir-dev](https://github.com/Fundefir-dev), [@api-platform](https://github.com/api-platform) and [@microsoft](https://github.com/microsoft).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -92,18 +92,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@sola
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [31qk/se](https://github.com/31qk/se)  |  27 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  536.1K ⭐  |
+|  [31qk/se](https://github.com/31qk/se)  |  27 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  536.2K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  25.6K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
-|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  138.6K ⭐  |
-|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  66.6K ⭐  |
+|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  138.7K ⭐  |
+|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  66.7K ⭐  |
 |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  717 ⭐  |
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  3.1K ⭐  |
 |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  58.1K ⭐  |
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.9K ⭐  |
-|  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.3K ⭐  |
-|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  45.9K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
+|  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.4K ⭐  |
+|  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  45.10K ⭐  |  [jdsoteldo/architectural-patter...](https://github.com/jdsoteldo/architectural-patterns)  |  1 ⭐  |
 
-<sup><sub>Last updated: August 05, 2026 at 01:06:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 05, 2026 at 04:59:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
