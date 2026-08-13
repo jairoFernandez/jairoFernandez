@@ -83,7 +83,7 @@ Here are my favorite builds 👇
 | [#651: ✨ feat: add optional back button and step icons to Breadcrumb](https://github.com/konstructio/konstruct-ui/pull/651) | [`konstruct-ui`](https://github.com/konstructio/konstruct-ui) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=452&del=12&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=452&del=12&height=18"><img src="https://diff-counter.patrickdap.dev/?add=452&del=12&height=18" alt="+452 -12"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@ideascoldigital](https://github.com/ideascoldigital), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia) and [@solana-labs](https://github.com/solana-labs).
+Overall, my most recent contributions (besides my own repos) have gone to [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia), [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV) and [@OnWatchUS](https://github.com/OnWatchUS).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -93,9 +93,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [video-db/call.md](https://github.com/video-db/call.md)  |  1.1K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  46.6K ⭐  |
-|  [31qk/se](https://github.com/31qk/se)  |  28 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  539.2K ⭐  |
+|  [31qk/se](https://github.com/31qk/se)  |  28 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  539.3K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  26K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
-|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  144.9K ⭐  |
+|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  144.10K ⭐  |
 |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  71.3K ⭐  |
 |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  719 ⭐  |
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  3.2K ⭐  |
@@ -103,7 +103,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.10K ⭐  |
 |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.5K ⭐  |
 
-<sup><sub>Last updated: August 13, 2026 at 04:34:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 13, 2026 at 08:21:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
