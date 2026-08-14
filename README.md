@@ -83,7 +83,7 @@ Here are my favorite builds 👇
 | [#651: ✨ feat: add optional back button and step icons to Breadcrumb](https://github.com/konstructio/konstruct-ui/pull/651) | [`konstruct-ui`](https://github.com/konstructio/konstruct-ui) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=452&del=12&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=452&del=12&height=18"><img src="https://diff-counter.patrickdap.dev/?add=452&del=12&height=18" alt="+452 -12"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS), [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst) and [@algolia](https://github.com/algolia).
+Overall, my most recent contributions (besides my own repos) have gone to [@OnWatchUS](https://github.com/OnWatchUS), [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi), [@konstructio](https://github.com/konstructio) and [@microsoft](https://github.com/microsoft).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -101,9 +101,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Code
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  3.2K ⭐  |
 |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |  [MemPalace/mempalace](https://github.com/MemPalace/mempalace)  |  58.4K ⭐  |
 |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |  [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)  |  16.10K ⭐  |
-|  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.7K ⭐  |
+|  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |  [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  |  12.9K ⭐  |
 
-<sup><sub>Last updated: August 14, 2026 at 12:19:15 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 14, 2026 at 16:11:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
