@@ -83,7 +83,7 @@ Here are my favorite builds 👇
 | [#6: ci: run tests on windows-latest](https://github.com/jairoFernandez/knock/pull/6) | [`knock`](https://github.com/jairoFernandez/knock) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@algolia](https://github.com/algolia), [@CodelyTV](https://github.com/CodelyTV), [@api-platform](https://github.com/api-platform) and [@microsoft](https://github.com/microsoft).
+Overall, my most recent contributions (besides my own repos) have gone to [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev), [@ClientCall](https://github.com/ClientCall) and [@konstructio](https://github.com/konstructio).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -94,16 +94,16 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 |------------|-------|------------|-------|
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  135.10K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  21.1K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  204.6K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |
-|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.1K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  51.2K ⭐  |
+|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  204.7K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  72 ⭐  |
+|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.1K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  51.3K ⭐  |
 |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  544.1K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  26.6K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
-|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  149K ⭐  |
-|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  76.7K ⭐  |
+|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  149.1K ⭐  |
+|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  76.8K ⭐  |
 |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  721 ⭐  |
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  3.2K ⭐  |
 
-<sup><sub>Last updated: August 30, 2026 at 16:13:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 30, 2026 at 20:45:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
