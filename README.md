@@ -83,7 +83,7 @@ Here are my favorite builds 👇
 | [#7: Release CI: bypass failing DMG bundling for macOS aarch64 Tauri build](https://github.com/jairoFernandez/knock/pull/7) | [`knock`](https://github.com/jairoFernandez/knock) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=5&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=5&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=5&del=1&height=18" alt="+5 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ClientCall](https://github.com/ClientCall), [@dagrinchi](https://github.com/dagrinchi), [@konstructio](https://github.com/konstructio), [@microsoft](https://github.com/microsoft) and [@kubefirst](https://github.com/kubefirst).
+Overall, my most recent contributions (besides my own repos) have gone to [@solana-labs](https://github.com/solana-labs), [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi) and [@konstructio](https://github.com/konstructio).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -94,7 +94,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Clie
 |------------|-------|------------|-------|
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  137.8K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  22.1K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  230K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  73 ⭐  |
+|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  230.3K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  73 ⭐  |
 |  [video-db/call.md](https://github.com/video-db/call.md)  |  1.1K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  55K ⭐  |
 |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  548.3K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  27.3K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
@@ -103,7 +103,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Clie
 |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  726 ⭐  |
 |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |  [nicedreamzapp/claude-code-loca...](https://github.com/nicedreamzapp/claude-code-local)  |  3.3K ⭐  |
 
-<sup><sub>Last updated: September 19, 2026 at 20:45:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 20, 2026 at 00:16:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
