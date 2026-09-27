@@ -92,7 +92,7 @@ Here are my favorite builds 👇
 | [#679: ✨ feat: add Sidebar collapse trigger and logo visibility options](https://github.com/konstructio/konstruct-ui/pull/679) | [`konstruct-ui`](https://github.com/konstructio/konstruct-ui) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18"><img src="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18" alt="+311 -32"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@CodelyTV](https://github.com/CodelyTV), [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform), [@microsoft](https://github.com/microsoft) and [@ideascoldigital](https://github.com/ideascoldigital).
+Overall, my most recent contributions (besides my own repos) have gone to [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev), [@ClientCall](https://github.com/ClientCall) and [@api-platform](https://github.com/api-platform).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -104,15 +104,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Code
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  138.7K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  22.4K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  237.5K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  73 ⭐  |
-|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.5K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  58.10K ⭐  |
+|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  237.6K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  73 ⭐  |
+|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.5K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  59.1K ⭐  |
 |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  550.1K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  27.4K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
 |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  154.9K ⭐  |
-|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  85.7K ⭐  |
+|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  85.8K ⭐  |
 |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  726 ⭐  |
 
-<sup><sub>Last updated: September 27, 2026 at 12:15:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 27, 2026 at 16:14:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
