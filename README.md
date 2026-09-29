@@ -62,6 +62,7 @@ Here are my favorite builds 👇
 *(Some content might be written in Spanish)*
 
 
+* [Kubiverse: Explore Your Kubernetes Cluster as a Voxel World](https://dev.to/jairofernandez/kubiverse-explore-your-kubernetes-cluster-as-a-voxel-world-me5?ref=github-profile) *(published on September 29, 2026)*
 * [Two Real VS Code Extensions, Built with vsceasy (and What Each Feature Does)](https://dev.to/jairofernandez/two-real-vs-code-extensions-built-with-vsceasy-and-what-each-feature-does-3opc?ref=github-profile) *(published on September 27, 2026)*
 * [AI fatigue?](https://dev.to/jairofernandez/ai-fatigue-gg2?ref=github-profile) *(published on July 01, 2026)*
 * [Build VS Code Extensions Fast with vsceasy](https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9?ref=github-profile) *(published on June 14, 2026)*
@@ -93,7 +94,7 @@ Here are my favorite builds 👇
 | [#679: ✨ feat: add Sidebar collapse trigger and logo visibility options](https://github.com/konstructio/konstruct-ui/pull/679) | [`konstruct-ui`](https://github.com/konstructio/konstruct-ui) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18"><img src="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18" alt="+311 -32"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital), [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
+Overall, my most recent contributions (besides my own repos) have gone to [@ClientCall](https://github.com/ClientCall), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -105,15 +106,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@micr
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  138.9K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  22.4K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  239.8K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  73 ⭐  |
-|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.5K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  61K ⭐  |
+|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  239.9K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  73 ⭐  |
+|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.5K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  61.2K ⭐  |
 |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  550.6K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  27.5K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
 |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  155.3K ⭐  |
-|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  86.1K ⭐  |
+|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  86.2K ⭐  |
 |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |  [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor)  |  726 ⭐  |
 
-<sup><sub>Last updated: September 29, 2026 at 12:18:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 29, 2026 at 16:17:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
