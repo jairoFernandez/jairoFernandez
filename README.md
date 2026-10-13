@@ -94,7 +94,7 @@ Here are my favorite builds 👇
 | [#679: ✨ feat: add Sidebar collapse trigger and logo visibility options](https://github.com/konstructio/konstruct-ui/pull/679) | [`konstruct-ui`](https://github.com/konstructio/konstruct-ui) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18"><img src="https://diff-counter.patrickdap.dev/?add=311&del=32&height=18" alt="+311 -32"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@api-platform](https://github.com/api-platform), [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft), [@ideascoldigital](https://github.com/ideascoldigital) and [@solana-labs](https://github.com/solana-labs).
+Overall, my most recent contributions (besides my own repos) have gone to [@kubefirst](https://github.com/kubefirst), [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV), [@dagrinchi](https://github.com/dagrinchi) and [@konstructio](https://github.com/konstructio).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -108,13 +108,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@api-
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  139.4K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  22.8K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
 |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  248.2K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  74 ⭐  |
-|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.5K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  68K ⭐  |
+|  [video-db/call.md](https://github.com/video-db/call.md)  |  1.5K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  68.1K ⭐  |
 |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  552.8K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.1K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
-|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  159.4K ⭐  |
-|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  96.5K ⭐  |
+|  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |  [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)  |  159.5K ⭐  |
+|  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  |  96.6K ⭐  |
 
-<sup><sub>Last updated: October 12, 2026 at 16:16:32 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 12, 2026 at 20:47:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
