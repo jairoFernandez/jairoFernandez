@@ -12,7 +12,16 @@ Here are my favorite builds 👇
 
 *Projects I use often, built to make developer life easier and more fun.*
 
+#### [litek8s](https://litek8s.dev/) - A whole Kubernetes in one binary
+<p align="left"><a href="https://litek8s.dev/"><img src="https://raw.githubusercontent.com/jairoFernandez/litek8s/main/web/public/brand/litek8s-mark.svg" width="52" height="52" alt="litek8s logo" /></a></p>
+**A whole Kubernetes in one binary.** A local cluster in about a second, your spare machines as one cluster, and about 20 MiB of memory at idle.
+
+- ⚙️ **What it does**: Runs a full local Kubernetes cluster with a tiny footprint, fast startup, and a simple developer experience
+- 🧠 **Why I built it**: I wanted a single binary that makes local Kubernetes feel instant, simple, and reliable
+- 🔗 [Website](https://litek8s.dev/) | [GitHub](https://github.com/jairoFernandez/litek8s)
+
 #### [Kubiverse](https://github.com/jairoFernandez/kubiverse) - Your Kubernetes Cluster as a 3D Pixel-Art World
+<p align="left"><a href="https://github.com/jairoFernandez/kubiverse"><img src="https://raw.githubusercontent.com/jairoFernandez/kubiverse/main/game/assets/splash.png" width="52" height="52" alt="Kubiverse logo" /></a></p>
 **Walk around your real cluster.** Kubiverse turns your live Kubernetes cluster into an interactive voxel world built with Godot 4. Namespaces become factory halls, deployments become assembly lines, nodes are generator islands — and you navigate it all in real time.
 
 - 🎮 **What it does**: Visualizes live Kubernetes resources (pods, deployments, services, nodes) as an explorable 3D pixel-art game, connected to your cluster via a lightweight Go bridge
@@ -22,6 +31,7 @@ Here are my favorite builds 👇
 - 🔗 [GitHub](https://github.com/jairoFernandez/kubiverse)
 
 #### [Knock](https://github.com/jairoFernandez/knock) - API Testing Without the Bloat
+<p align="left"><a href="https://github.com/jairoFernandez/knock"><img src="https://github.com/fluidicon.png" width="52" height="52" alt="Knock logo" /></a></p>
 **A fresh alternative to Insomnia, Postman and friends.** Fast, focused, and built for people who just want to hit endpoints and move on.
 
 - ⚡ **What it does**: API testing with a lightweight, no-nonsense workflow
@@ -29,6 +39,7 @@ Here are my favorite builds 👇
 - 📰 **Read more**: [Knock: A new alternative to Insomnia, Postman and more](https://dev.to/jairofernandez/knock-a-new-alternative-to-insomnia-postman-and-more-1nf9)
 
 #### [FNPM](https://fnpm-docs.vercel.app/) - End the Package Manager Wars
+<p align="left"><a href="https://fnpm-docs.vercel.app/"><img src="https://github.com/fluidicon.png" width="52" height="52" alt="FNPM logo" /></a></p>
 **The peace treaty for npm vs yarn vs pnpm drama.** Let your team use their favorite package manager while keeping projects consistent. Features transparent aliases, unified lock files, and zero learning curve.
 
 - 📦 **What it does**: Allows teams to use different package managers (npm, yarn, pnpm, bun) while maintaining consistency
@@ -37,6 +48,7 @@ Here are my favorite builds 👇
 - 🔗 [Documentation](https://fnpm-docs.vercel.app/) | [GitHub](https://github.com/ideascoldigital/fnpm)
 
 #### [CLI Maker](https://www.npmjs.com/package/@ideascol/cli-maker) - Build CLIs Without the Mess
+<p align="left"><a href="https://www.npmjs.com/package/@ideascol/cli-maker"><img src="https://github.com/fluidicon.png" width="52" height="52" alt="CLI Maker logo" /></a></p>
 **Rapid CLI development tool that actually works.** Skip the boilerplate and focus on your CLI logic with built-in argument parsing, help generation, and modern tooling support.
 
 - 🛠️ **What it does**: Streamlines CLI application development with templates and utilities
@@ -45,6 +57,7 @@ Here are my favorite builds 👇
 - 🔗 [NPM Package](https://www.npmjs.com/package/@ideascol/cli-maker) | [GitHub](https://github.com/ideascoldigital/cli-maker)
 
 #### [Code Coach](https://github.com/jairoFernandez/code-coach) - Practice Algorithms by Actually Typing Them
+<p align="left"><a href="https://github.com/jairoFernandez/code-coach"><img src="https://raw.githubusercontent.com/jairoFernandez/code-coach/main/assets/icon.png" width="52" height="52" alt="Code Coach logo" /></a></p>
 **A VS Code extension that trains muscle memory, not copy-paste reflexes.** It measures your real typing speed and accuracy while you solve interview problems, blocks paste entirely, generates fresh exercises with a local AI model, and targets your weakest topics automatically.
 
 - ⌨️ **What it does**: Enforces real typing practice through guided modes (Typing, Assisted, TDD, Blind), an AI coach, and an MCP interface for agents
@@ -52,11 +65,13 @@ Here are my favorite builds 👇
 - 🔗 [GitHub](https://github.com/jairoFernandez/code-coach)
 
 #### [vsceasy](https://vsceasy.dev) - Build VS Code Extensions Fast
+<p align="left"><a href="https://vsceasy.dev"><img src="https://raw.githubusercontent.com/jairoFernandez/vsceasy/main/assets/logo-mark.svg" width="52" height="52" alt="vsceasy logo" /></a></p>
 **The fastest way to scaffold a VS Code extension with React UI.** Zero-config build, a typed RPC bridge between extension and webview, and a CLI that gets you from zero to running in one command.
 
 - 🛠️ **What it does**: Scaffolds VS Code extensions with React + typed RPC, handling all the boilerplate so you focus on your feature
 - 🎯 **Why I built it**: The official extension API is powerful but verbose — vsceasy removes the ceremony
 - 🔗 [Documentation](https://vsceasy.dev) | [GitHub](https://github.com/jairoFernandez/vsceasy)
+
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
