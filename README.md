@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#3: Add code-coach and vsceasy to profile's "Tools I Use Daily" section](https://github.com/jairoFernandez/jairoFernandez/pull/3) | [`jairoFernandez`](https://github.com/jairoFernandez/jairoFernandez) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=28&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=28&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=28&del=0&height=18" alt="+28 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ClientCall](https://github.com/ClientCall), [@api-platform](https://github.com/api-platform), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia) and [@solana-labs](https://github.com/solana-labs).
+Overall, my most recent contributions (besides my own repos) have gone to [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp), [@CodelyTV](https://github.com/CodelyTV), [@ClientCall](https://github.com/ClientCall) and [@api-platform](https://github.com/api-platform).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -123,12 +123,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Clie
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  140.1K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.3K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  263.6K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  74 ⭐  |
+|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  263.7K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  74 ⭐  |
 |  [video-db/call.md](https://github.com/video-db/call.md)  |  1.9K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  74.7K ⭐  |
-|  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  556.6K ⭐  |
+|  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |  [codecrafters-io/build-your-own...](https://github.com/codecrafters-io/build-your-own-x)  |  556.7K ⭐  |
 |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.6K ⭐  |  [un/inbox](https://github.com/un/inbox)  |  1.8K ⭐  |
 
-<sup><sub>Last updated: October 27, 2026 at 16:11:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 27, 2026 at 20:30:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
