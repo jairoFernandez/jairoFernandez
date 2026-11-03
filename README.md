@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#17: Release 0.2.16](https://github.com/jairoFernandez/litek8s/pull/17) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18"><img src="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18" alt="+3 -3"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@microsoft](https://github.com/microsoft), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp) and [@CodelyTV](https://github.com/CodelyTV).
+Overall, my most recent contributions (besides my own repos) have gone to [@dagrinchi](https://github.com/dagrinchi), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@origami-corp](https://github.com/origami-corp) and [@ClientCall](https://github.com/ClientCall).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -125,10 +125,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  141.6K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.5K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  269.5K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  74 ⭐  |
+|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  269.6K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  74 ⭐  |
 |  [video-db/call.md](https://github.com/video-db/call.md)  |  2K ⭐  |  [rohitg00/ai-engineering-from-s...](https://github.com/rohitg00/ai-engineering-from-scratch)  |  76.4K ⭐  |
 
-<sup><sub>Last updated: November 02, 2026 at 15:08:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 02, 2026 at 19:24:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
