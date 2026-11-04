@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#17: Release 0.2.16](https://github.com/jairoFernandez/litek8s/pull/17) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18"><img src="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18" alt="+3 -3"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@CodelyTV](https://github.com/CodelyTV), [@Fundefir-dev](https://github.com/Fundefir-dev), [@dagrinchi](https://github.com/dagrinchi), [@ideascoldigital](https://github.com/ideascoldigital) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@ClientCall](https://github.com/ClientCall), [@dagrinchi](https://github.com/dagrinchi), [@microsoft](https://github.com/microsoft) and [@algolia](https://github.com/algolia).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -121,14 +121,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Code
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.7K ⭐  |
 |  [terranvigil/yah264](https://github.com/terranvigil/yah264)  |  3 ⭐  |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |
-|  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  18.9K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
+|  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  18.10K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  7 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  141.8K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.5K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  271.1K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  74 ⭐  |
+|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  271.4K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  74 ⭐  |
 
-<sup><sub>Last updated: November 03, 2026 at 19:24:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 03, 2026 at 23:11:12 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
