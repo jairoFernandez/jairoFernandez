@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#19: ui: Home for clusters that are not litek8s; release 0.2.17](https://github.com/jairoFernandez/litek8s/pull/19) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=806&del=18&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=806&del=18&height=18"><img src="https://diff-counter.patrickdap.dev/?add=806&del=18&height=18" alt="+806 -18"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@ClientCall](https://github.com/ClientCall), [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio) and [@OnWatchUS](https://github.com/OnWatchUS).
+Overall, my most recent contributions (besides my own repos) have gone to [@Fundefir-dev](https://github.com/Fundefir-dev), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia), [@CodelyTV](https://github.com/CodelyTV) and [@ClientCall](https://github.com/ClientCall).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -117,18 +117,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@Fund
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  6 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  274.8K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.1K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.7K ⭐  |
 |  [terranvigil/yah264](https://github.com/terranvigil/yah264)  |  3 ⭐  |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |
-|  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  19.1K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
+|  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  18.5K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  7 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  142.1K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.6K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
-|  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  274.7K ⭐  |  [midudev/github-sentinel](https://github.com/midudev/github-sentinel)  |  73 ⭐  |
 
-<sup><sub>Last updated: November 06, 2026 at 11:10:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 06, 2026 at 15:09:13 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
