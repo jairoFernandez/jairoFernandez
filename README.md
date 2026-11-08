@@ -117,7 +117,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  6 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  275.7K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  6 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  275.9K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.1K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.7K ⭐  |
@@ -128,7 +128,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  142.2K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.6K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
 
-<sup><sub>Last updated: November 07, 2026 at 19:27:38 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 07, 2026 at 23:10:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
