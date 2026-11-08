@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#19: ui: Home for clusters that are not litek8s; release 0.2.17](https://github.com/jairoFernandez/litek8s/pull/19) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=806&del=18&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=806&del=18&height=18"><img src="https://diff-counter.patrickdap.dev/?add=806&del=18&height=18" alt="+806 -18"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia) and [@origami-corp](https://github.com/origami-corp).
+Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio), [@microsoft](https://github.com/microsoft), [@kubefirst](https://github.com/kubefirst) and [@algolia](https://github.com/algolia).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -128,7 +128,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@idea
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  142.2K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.6K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
 
-<sup><sub>Last updated: November 07, 2026 at 15:08:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 07, 2026 at 19:27:38 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
