@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#28: Blog: The pod that waits (how Pending works, and the Job deadline fix)](https://github.com/jairoFernandez/litek8s/pull/28) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=374&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=374&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=374&del=0&height=18" alt="+374 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs), [@OnWatchUS](https://github.com/OnWatchUS), [@Fundefir-dev](https://github.com/Fundefir-dev) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@solana-labs](https://github.com/solana-labs), [@CodelyTV](https://github.com/CodelyTV), [@OnWatchUS](https://github.com/OnWatchUS) and [@Fundefir-dev](https://github.com/Fundefir-dev).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -117,7 +117,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  279.2K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  279.3K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.1K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.8K ⭐  |
@@ -125,10 +125,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@algo
 |  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  18.9K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  7 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
-|  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  142.6K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
+|  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  142.7K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.7K ⭐  |  [douglasmakey/isoserver](https://github.com/douglasmakey/isoserver)  |  10 ⭐  |
 
-<sup><sub>Last updated: November 11, 2026 at 23:10:53 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 12, 2026 at 03:12:20 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
