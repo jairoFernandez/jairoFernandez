@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#47: Release 0.2.25](https://github.com/jairoFernandez/litek8s/pull/47) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18"><img src="https://diff-counter.patrickdap.dev/?add=3&del=3&height=18" alt="+3 -3"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@ideascoldigital](https://github.com/ideascoldigital) and [@microsoft](https://github.com/microsoft).
+Overall, my most recent contributions (besides my own repos) have gone to [@ideascoldigital](https://github.com/ideascoldigital), [@microsoft](https://github.com/microsoft) and [@konstructio](https://github.com/konstructio).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -117,8 +117,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  255 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.8K ⭐  |
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  282.7K ⭐  |
+|  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  258 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.8K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  282.9K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.1K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.8K ⭐  |
@@ -128,7 +128,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 
-<sup><sub>Last updated: November 17, 2026 at 07:13:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 17, 2026 at 11:11:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
