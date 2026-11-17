@@ -117,8 +117,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  254 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.8K ⭐  |
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  282.5K ⭐  |
+|  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  255 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.8K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  282.6K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.1K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.8K ⭐  |
@@ -128,7 +128,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |  [douglasmakey/ebpf-learning](https://github.com/douglasmakey/ebpf-learning)  |  16 ⭐  |
 |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143K ⭐  |  [douglasmakey/admissioncontroll...](https://github.com/douglasmakey/admissioncontroller)  |  29 ⭐  |
 
-<sup><sub>Last updated: November 16, 2026 at 23:10:58 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 17, 2026 at 03:12:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
