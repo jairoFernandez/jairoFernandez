@@ -118,9 +118,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [futjesus/futjesus-hub](https://github.com/futjesus/futjesus-hub)  |  1 ⭐  |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |
-|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  68.7K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
+|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  69.1K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
 |  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  264 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.9K ⭐  |
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  284.9K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  284.10K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.2K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.8K ⭐  |
@@ -128,7 +128,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  19.2K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  7 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 
-<sup><sub>Last updated: November 21, 2026 at 07:12:01 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 21, 2026 at 11:09:03 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
