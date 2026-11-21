@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#48: Blog: The sidecar that never arrived (admission webhooks and the controllers' pods)](https://github.com/jairoFernandez/litek8s/pull/48) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=432&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=432&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=432&del=0&height=18" alt="+432 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio), [@ideascoldigital](https://github.com/ideascoldigital) and [@microsoft](https://github.com/microsoft).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia), [@solana-labs](https://github.com/solana-labs) and [@origami-corp](https://github.com/origami-corp).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -118,17 +118,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [futjesus/futjesus-hub](https://github.com/futjesus/futjesus-hub)  |  1 ⭐  |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |
-|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  69.1K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
-|  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  264 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.9K ⭐  |
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  284.10K ⭐  |
-|  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.2K ⭐  |
+|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  69.3K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
+|  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  265 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.9K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  285K ⭐  |
+|  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.3K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.8K ⭐  |
 |  [terranvigil/yah264](https://github.com/terranvigil/yah264)  |  4 ⭐  |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |
 |  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  19.2K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  7 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 
-<sup><sub>Last updated: November 21, 2026 at 11:09:03 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 21, 2026 at 15:08:24 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
