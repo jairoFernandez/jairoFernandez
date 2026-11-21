@@ -118,7 +118,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [futjesus/futjesus-hub](https://github.com/futjesus/futjesus-hub)  |  1 ⭐  |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |
-|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  67.6K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
+|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  67.8K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
 |  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  263 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.9K ⭐  |
 |  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  284.7K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.1K ⭐  |
@@ -128,7 +128,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  19.1K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  7 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 
-<sup><sub>Last updated: November 20, 2026 at 15:09:08 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 20, 2026 at 19:24:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
