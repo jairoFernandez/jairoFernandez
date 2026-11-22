@@ -118,17 +118,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kube
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [futjesus/futjesus-hub](https://github.com/futjesus/futjesus-hub)  |  1 ⭐  |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |
-|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  69.5K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
+|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  69.8K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.3K ⭐  |
 |  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  265 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  23.9K ⭐  |
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  285.1K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  7 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  285.2K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.3K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
 |  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.8K ⭐  |
 |  [terranvigil/yah264](https://github.com/terranvigil/yah264)  |  4 ⭐  |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |
-|  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  19.2K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
+|  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  19.3K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  7 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 
-<sup><sub>Last updated: November 21, 2026 at 19:27:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 21, 2026 at 23:10:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
