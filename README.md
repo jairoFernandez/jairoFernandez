@@ -108,7 +108,7 @@ Here are my favorite builds 👇
 | [#49: Blog: Pushing what you no longer have (docker push from unpacked layers)](https://github.com/jairoFernandez/litek8s/pull/49) | [`litek8s`](https://github.com/jairoFernandez/litek8s) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=401&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=401&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=401&del=0&height=18" alt="+401 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia), [@ideascoldigital](https://github.com/ideascoldigital), [@konstructio](https://github.com/konstructio) and [@microsoft](https://github.com/microsoft).
+Overall, my most recent contributions (besides my own repos) have gone to [@microsoft](https://github.com/microsoft), [@kubefirst](https://github.com/kubefirst), [@algolia](https://github.com/algolia), [@ideascoldigital](https://github.com/ideascoldigital) and [@konstructio](https://github.com/konstructio).
 
 
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -118,17 +118,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kube
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [futjesus/futjesus-hub](https://github.com/futjesus/futjesus-hub)  |  1 ⭐  |  [blackhol214/rectangulo-verde](https://github.com/blackhol214/rectangulo-verde)  |  1 ⭐  |
-|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  82.3K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.9K ⭐  |
+|  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)  |  82.4K ⭐  |  [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)  |  143.10K ⭐  |
 |  [nschurmann/hola-ai](https://github.com/nschurmann/hola-ai)  |  275 ⭐  |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)  |  24.2K ⭐  |
-|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  8 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  288.1K ⭐  |
+|  [gubernator-org/gubernator](https://github.com/gubernator-org/gubernator)  |  8 ⭐  |  [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)  |  288.2K ⭐  |
 |  [k0sproject/k0s](https://github.com/k0sproject/k0s)  |  6.6K ⭐  |  [video-db/call.md](https://github.com/video-db/call.md)  |  2.7K ⭐  |
 |  [darkshiftio/infrared-gitops-te...](https://github.com/darkshiftio/infrared-gitops-template)  |  1 ⭐  |  [31qk/se](https://github.com/31qk/se)  |  29 ⭐  |
-|  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  28.10K ⭐  |
+|  [darkshiftio/infrared-chart](https://github.com/darkshiftio/infrared-chart)  |  1 ⭐  |  [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)  |  29K ⭐  |
 |  [terranvigil/yah264](https://github.com/terranvigil/yah264)  |  9 ⭐  |  [ideascoldigital/cli-maker](https://github.com/ideascoldigital/cli-maker)  |  5 ⭐  |
 |  [xerj-org/xerj](https://github.com/xerj-org/xerj)  |  22.4K ⭐  |  [douglasmakey/poc-rust-https-sn...](https://github.com/douglasmakey/poc-rust-https-sniffer)  |  17 ⭐  |
 |  [M4ss1ck/maibuk](https://github.com/M4ss1ck/maibuk)  |  9 ⭐  |  [douglasmakey/send-file-over-tc...](https://github.com/douglasmakey/send-file-over-tcp-demo)  |  14 ⭐  |
 
-<sup><sub>Last updated: November 27, 2026 at 23:10:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 28, 2026 at 03:11:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
 
 ---
 
